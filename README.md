@@ -7,19 +7,19 @@ A mod adding more tool/gear variations for The Long Dark.
 
 Currently the mod adds 6 new tool/gear variants, those include:
 
-- An axe: Splitting Axe 
+- An Axe: Splitting Axe 
 
 (GEAR_BigChoppingAxe)
 
-- 2 knives: Flint Knife and Bone Knife 
+- 2 Knives: Flint Knife and Bone Knife 
 
 (GEAR_FlintKnife,GEAR_BoneKnife)
 
-- 2 sleeping bags: Deerskin Sleeping Bag and Mountaineer's Sleeping Bag 
+- 2 Sleeping Bags: Deerskin Sleeping Bag and Mountaineer's Sleeping Bag 
 
 (GEAR_DeerSleepingBag,GEAR_TrekSleepingBag)
 
-- a hammer: Stone Hammer
+- A Hammer: Stone Hammer
 
 (GEAR_StoneHammer)
 
