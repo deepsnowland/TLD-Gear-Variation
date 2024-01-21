@@ -1,0 +1,13 @@
+Loottable=HumanCorpse
+
+item=GEAR_BoneKnife w=1
+item=Gear_FlintKnife w=1
+
+Loottable=HumanCorpseRare
+
+item=GEAR_BoneKnife w=4
+
+Loottable=BackPack
+
+item=GEAR_BoneKnife w=1
+item=GEAR_FlintKnife w=1

@@ -1,0 +1,75 @@
+
+scene=RiverValleyRegion
+
+item=GEAR_TrekSleepingBag p=956.9023,193.0275,1250.8929 r=4.8217,296.1815,359.7227 c=24
+item=GEAR_TrekSleepingBag p=1123.2080,192.5830,784.6826 r=333.7772,83.4341,6.2305 c=24
+item=GEAR_TrekSleepingBag p=196.1120,174.6661,280.2027 r=29.9801,217.1247,180.0000 c=16
+
+scene=MountainTownRegion
+
+item=GEAR_TrekSleepingBag p=449.6400,5.0221,689.8412 r=24.5261,239.6290,348.6088 c=88
+
+scene=DamRiverTransitionZoneB
+
+item=GEAR_TrekSleepingBag p=454.1520,74.8378,496.2394 r=66.7037,74.5245,112.2219 c=25
+
+scene=RuralRegion
+
+item=GEAR_TrekSleepingBag p=1395.8372,92.4890,2695.5925 r=350.5692,14.2885,355.2361 c=25
+item=GEAR_TrekSleepingBag p=397.9546,149.5493,2055.7729 r=60.0005,276.4183,0.0000 c=25
+
+scene=CrashMountainRegion
+
+item=GEAR_TrekSleepingBag p=885.9168,162.0038,343.9568 r=0.0000,187.8137,0.0000 c=20
+item=GEAR_TrekSleepingBag p=944.2350,470.6295,1160.6602 r=357.6420,359.8684,6.3876 c=15
+
+scene=AshMine
+
+item=GEAR_TrekSleepingBag p=-125.7368,-56.4608,229.9040 r=0.5625,335.2599,359.4201 c=100
+
+scene=AshCabinD
+
+item=GEAR_TrekSleepingBag p=-0.4840,0.6701,-1.7372 r=-0.0000,41.2059,-0.0000 c=25
+
+scene=WhalingStationRegion
+
+item=GEAR_TrekSleepingBag p=1145.4802,15.2807,1290.4965 r=7.9813,321.6257,4.4674 c=45
+
+scene=CampOffice
+
+item=GEAR_TrekSleepingBag p=-5.0919,3.7992,2.6141 r=0.0000,345.4600,0.0000 c=4
+
+scene=TracksRegion
+
+item=GEAR_DeerSleepingBag p=254.9231,191.9295,575.3547 r=0.0000,346.9510,0.0000 c=2
+
+scene=HuntingLodgeA
+
+item=GEAR_DeerSleepingBag p=-4.4301,6.4348,-6.6190 r=0.0000,358.2060,0.0000 c=4
+
+item=GEAR_TrekSleepingBag p=-7.3747,8.0490,-2.2393 r=-0.0000,163.2272,-0.0000 c=25
+
+scene=SafeHouseA
+
+item=GEAR_DeerSleepingBag p=-5.2186,0.2694,8.5405 r=-0.0000,245.0687,224.9999 c=4
+
+loottable=CargoMiscRareA
+
+item=GEAR_TrekSleepingBag w=2
+
+loottable=CargoMiscRareB
+
+item=GEAR_TrekSleepingBag w=1
+
+loottable=CargoMiscRareC
+
+item=GEAR_TrekSleepingBag w=2
+
+loottable=VehicleTrunkLocked
+
+item=GEAR_TrekSleepingBag w=1
+
+loottable=LockerLocked
+
+item=GEAR_TrekSleepingBag w=1
+

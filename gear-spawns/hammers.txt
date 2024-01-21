@@ -1,0 +1,32 @@
+
+scene=CrashMountainRegion
+
+item=GEAR_StoneHammer p=890.8826,148.9021,398.9808 r=306.1788,324.0104,65.2352 c=4
+item=GEAR_StoneHammer p=193.2285,311.4375,1398.9983 r=354.6957,0.3714,351.9948 c=2
+
+scene=RiverValleyRegion
+
+item=GEAR_StoneHammer p=890.8788,224.1279,463.9936 r=0.0000,231.6385,0.0000 c=3
+item=GEAR_StoneHammer p=1180.1328,196.7025,775.4266 r=356.0717,243.8020,357.1374 c=13
+item=GEAR_StoneHammer p=957.9815,193.5214,1279.0242 r=-0.0000,-0.0000,5.0009 c=4
+
+scene=RuralRegion
+
+item=GEAR_StoneHammer p=2620.6909,94.0992,1465.2040 r=357.6144,319.5888,1.1936 c=2
+item=GEAR_StoneHammer p=351.2978,179.4644,2256.5503 r=4.5776,20.0643,6.0717 c=4
+
+scene=BlackrockRegion
+
+item=GEAR_StoneHammer p=-382.4917,76.1630,438.1863 r=5.7039,0.1426,2.8626 c=5
+
+scene=BlackrockPrisonSurvivalZone
+
+item=GEAR_StoneHammer p=-230.4139,226.0152,98.6866 r=0.0000,286.7786,0.0000 c=7
+
+scene=BlackrockInteriorASurvival
+
+item=GEAR_StoneHammer p=14.4309,0.0180,1.3314 r=-0.0000,122.4756,-0.0000 c=5
+
+scene=CoastalRegion
+
+item=GEAR_StoneHammer p=390.3613,148.8584,1120.1306 r=0.7371,0.0095,1.4745 c=30
