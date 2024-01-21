@@ -1,16 +1,16 @@
 {
-    "Name": "BLUEPRINT_BoneKnife",
-    "RequiredGear": [{"Item": "GEAR_Bones", "Count": 5},{"Item": "GEAR_Rock", "Count": 1}],
+    "Name": "BLUEPRINT_FlintKnife",
+    "RequiredGear": [{"Item": "GEAR_Stick", "Count": 2},{"Item": "GEAR_Flint", "Count": 2},{"Item": "GEAR_Cloth", "Count": 1}],
     "KeroseneLitersRequired": 0.0,
     "GunpowderKGRequired": 0.0,
     "RequiredTool": "",
     "RequiredCraftingLocation": "Workbench",
     "RequiresLitFire": false,
     "RequiresLight": true,
-    "CraftedResult": "GEAR_BoneKnife",
+    "CraftedResult": "GEAR_FlintKnife",
     "CraftedResultCount": 1,
-    "DurationMinutes": 60,
-    "CraftingAudio": "Play_CraftingArrows",
+    "DurationMinutes": 50,
+    "CraftingAudio": "Play_Sharpening",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
 }

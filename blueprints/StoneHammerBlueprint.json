@@ -1,0 +1,16 @@
+{
+    "Name": "BLUEPRINT_StoneHammer",
+    "RequiredGear": [{"Item": "GEAR_Softwood", "Count": 1},{"Item": "GEAR_Rock", "Count": 2},{"Item": "GEAR_GutDried", "Count": 1}],
+    "KeroseneLitersRequired": 0.0,
+    "GunpowderKGRequired": 0.0,
+    "RequiredTool": "",
+    "RequiredCraftingLocation": "Workbench",
+    "RequiresLitFire": false,
+    "RequiresLight": false,
+    "CraftedResult": "GEAR_StoneHammer",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 45,
+    "CraftingAudio": "Play_CraftingGeneric",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None"
+}
