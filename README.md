@@ -5,7 +5,7 @@ A mod adding more tool/gear variations for The Long Dark.
 
 # About
 
-Currently the mod adds 7 new tool/gear variants, those include:
+Currently the mod adds 6 new tool/gear variants, those include:
 
 - An axe
 - 2 knives
