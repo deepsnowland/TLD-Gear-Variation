@@ -1,0 +1,52 @@
+{
+    "ModBedComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_DeerSleepingBag",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_DeerSleepingBagDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 2.15,
+                            "DaysToDecay" : 256,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Perfect",
+                            "InventoryCategory" : "Tool",
+                            "PickUpAudio" : "Play_SndInvClothHeavy",
+                            "PutBackAudio" : "Play_SndInvClothHeavy",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "Play_SndInvClothStiff",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.45,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, -0.05, 0],
+                            "InspectScale" :  [0.4, 0.4, 0.4],
+                            "NormalModel" : "SM_SleepingBagFolded",
+                            "InspectModel" : "",
+                            
+                            "ConditionGainPerHour" : 2,
+                            "AdditionalConditionGainPerHour" : 5,
+                            "WarmthBonusCelsius" : 10.5,
+                            "DegradePerHour" : 0.0575,
+                            "BearAttackModifier" : -2,
+                            "WolfAttackModifier" : -5,
+                            "OpenAudio" : "Play_SndGenSleepingBagOpen",
+                            "CloseAudio" : "Play_SndGenSleepingBagClose",
+                            "PackedMesh" : "SM_SleepingBagFolded",
+                            "UsableMesh" : "SM_DeerSleepingBag"
+    },
+	
+      "ModRepairableBehaviour" : {
+                                "Audio" : "Play_RepairingLeatherHide",
+                                "Minutes" : 25,
+                                "Condition" : 50,
+                                "RequiredTools" : ["GEAR_SewingKit","GEAR_HookAndLine"],
+                                "MaterialNames" : ["GEAR_LeatherHideDried"],
+                                "MaterialCounts" : [2]
+                            },
+
+      "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingLeather",
+                                "Minutes" : 25,
+                                "YieldCounts" : [1],
+                                "YieldNames" : ["GEAR_LeatherHideDried"],
+                                "RequiredToolNames" : []
+                            }
+
+}

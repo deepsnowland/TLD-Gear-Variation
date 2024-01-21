@@ -1,0 +1,52 @@
+{
+    "ModBedComponent" : {
+                            "DisplayNameLocalizationId" : "GAMEPLAY_TrekSleepingBag",
+                            "DescriptionLocalizatonId" : "GAMEPLAY_TrekSleepingBagDescription",
+                            "InventoryActionLocalizationId" : "",
+                            "WeightKG": 1.5,
+                            "DaysToDecay" : 164,
+                            "MaxHP" : 100,
+                            "InitialCondition" : "Random",
+                            "InventoryCategory" : "Tool",
+                            "PickUpAudio" : "Play_SndInvClothSoft",
+                            "PutBackAudio" : "Play_SndInvClothHeavy",
+                            "StowAudio" : "Play_InventoryStow",
+                            "WornOutAudio" : "Play_SndInvClothStiff",
+                            "InspectOnPickup" : true,
+                            "InspectDistance" : 0.4,
+                            "InspectAngles" : [0, 0, 0],
+                            "InspectOffset" : [0, -0.075, 0],
+                            "InspectScale" :  [0.3, 0.3, 0.3],
+                            "NormalModel" : "SM_SleepingBagFolded",
+                            "InspectModel" : "",
+                            
+                            "ConditionGainPerHour" : 1,
+                            "AdditionalConditionGainPerHour" : 3,
+                            "WarmthBonusCelsius" : 7.5,
+                            "DegradePerHour" : 0.075,
+                            "BearAttackModifier" : 9,
+                            "WolfAttackModifier" : 17,
+                            "OpenAudio" : "Play_SndGenCanvasBagZipperOpen1",
+                            "CloseAudio" : "Play_SndGenCanvasBagZipperClose1",
+                            "PackedMesh" : "SM_SleepingBagFolded",
+                            "UsableMesh" : "SM_SleepingBagOpen"
+    },
+	
+      "ModRepairableBehaviour" : {
+                                "Audio" : "Play_RepairingCloth",
+                                "Minutes" : 25,
+                                "Condition" : 37,
+                                "RequiredTools" : ["GEAR_SewingKit","GEAR_HookAndLine"],
+                                "MaterialNames" : ["GEAR_Cloth"],
+                                "MaterialCounts" : [4]
+                            },
+
+      "ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingCloth",
+                                "Minutes" : 25,
+                                "YieldCounts" : [7],
+                                "YieldNames" : ["GEAR_Cloth"],
+                                "RequiredToolNames" : []
+                            }
+
+}
