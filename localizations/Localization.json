@@ -1,1 +1,59 @@
+{
+ "GAMEPLAY_TrekSleepingBag": {
+  
+    "English": "Climber's Sleeping Bag"
+},
+ "GAMEPLAY_TrekSleepingBagDescription": {
+  
+   "English": "A high quality sleeping bag made to endure long journeys. Durable, warm, and protective. Comes with a string bag for easy carrying."
+},
+ "GAMEPLAY_DeerSleepingBag": {
+  
+   "English": "Deerskin Sleeping Bag"
+},
+ "GAMEPLAY_DeerSleepingBagDescription": {
+  
+   "English": "Warm, durable, and heavy as a deer. The smell might attract some predators."
+},
+ "GAMEPLAY_StoneHammer": {
+  
+   "English": "Stone Hammer"
+},
+ "GAMEPLAY_StoneHammerDescription": {
+  
+   "English": "A primitive version of a standard hammer. Less durable and not as effective, however a bit lighter."
+},
+ "GAMEPLAY_BigChoppingAxe": {
+  
+   "English": "Splitting Axe"
+},
+ "GAMEPLAY_BigChoppingAxeDescription": {
+  
+   "English": "A big durable axe used for splitting logs. Not the lightest you can choose from."
+},
+ "GAMEPLAY_FlintKnife": {
+  
+   "English": "Flint Knife"
+},
+ "GAMEPLAY_FlintKnifeDescription": {
+  
+   "English": "One of the oldest tools created by humanity. It's not actually that sharp or strong, but if they used it to survive, then maybe you can too."
+},
+ "GAMEPLAY_BoneKnife": {
+  
+   "English": "Bone knife"
+},
+ "GAMEPLAY_BoneKnifeDescription": {
+  
+   "English": "The sharp blade made out of animal bone ensures practicality, but it won't last long."
+},
 
+
+
+
+
+
+
+
+
+}
