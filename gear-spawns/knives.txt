@@ -1,13 +1,13 @@
-Loottable=HumanCorpse
+loottable=HumanCorpse
 
 item=GEAR_BoneKnife w=1
-item=Gear_FlintKnife w=1
+item=GEAR_FlintKnife w=1
 
-Loottable=HumanCorpseRare
+loottable=HumanCorpseRare
 
 item=GEAR_BoneKnife w=4
 
-Loottable=BackPack
+loottable=BackPack
 
 item=GEAR_BoneKnife w=1
 item=GEAR_FlintKnife w=1
