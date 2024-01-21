@@ -17,7 +17,7 @@ I might add more items in the future.
 
 # Installation
 
-This mod requires Modders Gear Toolbox by Jods and ModComponent, and all of their respective dependencies.
+This mod requires Modders Gear Toolbox by Jods and ModComponent, and by that all of their dependencies.
 After installing those, download GearVariation.modcomponent from the releases page and drop it into your mods folder.
 
 Have fun :)
