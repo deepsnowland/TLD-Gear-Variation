@@ -12,7 +12,8 @@ Currently the mod adds 6 new tool/gear variants, those include:
 - 2 sleeping bags
 - a hammer
 
-Most of those are craftable, but all of the items have spawns, some are more common than others.
+Most of those are craftable, but all of the items have spawns, some are more common than others. 
+Some of the items are intended for early game use, as sort of a tool progression.
 I might add more items in the future.
 
 # Installation
