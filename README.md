@@ -1,7 +1,7 @@
 
 ![Title Screenshot](https://github.com/DemonBunnyBon/TLD-Gear-Variation/blob/main/screenshots/scr01.png)
 # TLD-Gear-Variation
-A mod adding more tool/gear variations for The Long Dark.
+A mod adding more tool/gear variants for The Long Dark.
 
 # About
 
