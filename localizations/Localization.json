@@ -1,7 +1,7 @@
 {
  "GAMEPLAY_TrekSleepingBag": {
   
-    "English": "Climber's Sleeping Bag"
+    "English": "Mountaineer's Sleeping Bag"
 },
  "GAMEPLAY_TrekSleepingBagDescription": {
   
@@ -29,7 +29,7 @@
 },
  "GAMEPLAY_BigChoppingAxeDescription": {
   
-   "English": "A big durable axe used for splitting logs. Not the lightest you can choose from."
+   "English": "A big durable axe used for splitting logs. It's certainly not the lightest you can choose from."
 },
  "GAMEPLAY_FlintKnife": {
   
@@ -37,7 +37,7 @@
 },
  "GAMEPLAY_FlintKnifeDescription": {
   
-   "English": "One of the oldest tools created by humanity. It's not actually that sharp or strong, but if they used it to survive, then maybe you can too."
+   "English": "One of the oldest tools created by humanity. It's not that sharp or strong, but if they used it to survive, then maybe you can too."
 },
  "GAMEPLAY_BoneKnife": {
   
@@ -45,7 +45,7 @@
 },
  "GAMEPLAY_BoneKnifeDescription": {
   
-   "English": "The sharp blade made out of animal bone ensures practicality, but it won't last long."
+   "English": "The sharpened end of the animal bone ensures practicality as a knife, but it won't last long."
 },
 
 
