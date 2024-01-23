@@ -37,7 +37,7 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 
 - Carpenter's Axe, Bird Statue and Craftsman's Hacksaw have specific spawn points.
 
-- Other items, such as the splitting axe and mountaineer's sleeping bag can be found in many places around a vast selection of regions, so look out for them!
+- Other items, such as the splitting axe and mountaineer's sleeping bag can be found in many places around a vast selection of regions, so look out for them! (THEY ARE NOT GUARANTEED)
 
 - While the craftable items have some spawn spots, they are usually very very rare, this is intended.
 
