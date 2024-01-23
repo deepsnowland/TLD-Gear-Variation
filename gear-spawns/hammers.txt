@@ -7,7 +7,7 @@ item=GEAR_StoneHammer p=193.2285,311.4375,1398.9983 r=354.6957,0.3714,351.9948 c
 scene=RiverValleyRegion
 
 item=GEAR_StoneHammer p=890.8788,224.1279,463.9936 r=0.0000,231.6385,0.0000 c=3
-item=GEAR_StoneHammer p=1180.1328,196.7025,775.4266 r=356.0717,243.8020,357.1374 c=13
+item=GEAR_StoneHammer p=1180.1328,196.7025,775.4266 r=356.0717,243.8020,357.1374 c=7
 item=GEAR_StoneHammer p=957.9815,193.5214,1279.0242 r=-0.0000,-0.0000,5.0009 c=4
 
 scene=RuralRegion
@@ -30,3 +30,11 @@ item=GEAR_StoneHammer p=14.4309,0.0180,1.3314 r=-0.0000,122.4756,-0.0000 c=5
 scene=CoastalRegion
 
 item=GEAR_StoneHammer p=390.3613,148.8584,1120.1306 r=0.7371,0.0095,1.4745 c=30
+
+scene=AirfieldRegion
+
+item=GEAR_StoneHammer p=-734.5027,297.9948,1132.1041 r=-0.0000,0.0000,0.0000 c=8
+
+scene=BlackrockTransitionZone
+
+item=GEAR_StoneHammer p=374.7627,259.5015,-138.7204 r=353.3730,51.5532,2.8270 c=25

@@ -1,31 +1,32 @@
 scene=LakeRegion
 
-item=GEAR_BigChoppingAxe p=1158.8505,29.7428,1374.2406 r=18.5039,126.8655,175.3178 c=22
+item=GEAR_BigChoppingAxe p=1158.8505,29.7428,1374.2406 r=18.5039,126.8655,175.3178 c=15
 item=GEAR_BigChoppingAxe p=435.2415,156.2881,996.8626 r=354.1515,64.4614,11.8618 c=5
 item=GEAR_BigChoppingAxe p=144.2260,4.3444,52.1142 r=316.9202,114.3087,75.4890 c=5
-item=GEAR_BigChoppingAxe p=34.8661,15.8144,27.5214 r=9.6547,116.7997,3.2340 c=22
+item=GEAR_BigChoppingAxe p=34.8661,15.8144,27.5214 r=9.6547,116.7997,3.2340 c=10
+item=GEAR_BigChoppingAxe p=145.2580,11.7526,660.2512 r=286.2821,316.8613,147.8527 c=5
 
 scene=CampOffice
 
-item=GEAR_BigChoppingAxe p=6.7797,0.0320,3.8352 r=-0.0000,60.8805,-0.0000 c=6
+item=GEAR_BigChoppingAxe p=6.7797,0.0320,3.8352 r=0.0000,60.8805,0.0000 c=5
 
 scene=CoastalRegion
 
-item=GEAR_BigChoppingAxe p=-816.1248,204.6868,1226.2543 r=321.3369,301.3827,87.9470 c=12
+item=GEAR_BigChoppingAxe p=-816.1248,204.6868,1226.2543 r=321.3369,301.3827,87.9470 c=10
 item=GEAR_BigChoppingAxe p=-48.7142,26.0483,866.3414 r=356.3191,350.7964,13.5255 c=5
-item=GEAR_BigChoppingAxe p=355.0547,204.2957,1155.5114 r=347.0475,350.7230,97.6308 c=22
+item=GEAR_BigChoppingAxe p=355.0547,204.2957,1155.5114 r=347.0475,350.7230,97.6308 c=10
 
 scene=QuonsetGasStation
 
-item=GEAR_BigChoppingAxe p=-4.7238,0.0205,-7.7565 r=-0.0000,55.5955,-0.0000 c=10
+item=GEAR_BigChoppingAxe p=-4.7238,0.0205,-7.7565 r=-0.0000,55.5955,-0.0000 c=7
 
 scene=CoastalHouseC
 
-item=GEAR_BigChoppingAxe p=-5.2470,0.3700,3.0837 r=-0.0000,187.4444,75.0000 c=5
+item=GEAR_BigChoppingAxe p=-5.2470,0.3700,3.0837 r=-0.0000,187.4444,75.0000 c=7
 
 scene=CoastalHouseA
 
-item=GEAR_BigChoppingAxe p=0.0438,1.2042,-1.6164 r=90.0000,272.2495,0.0000 c=10
+item=GEAR_BigChoppingAxe p=0.0438,1.2042,-1.6164 r=90.0000,272.2495,0.0000 c=5
 
 scene=MineTransitionZone
 
@@ -37,16 +38,18 @@ item=GEAR_BigChoppingAxe p=3.3387,150.8798,0.0560 r=0.0000,196.2127,359.8625 c=5
 
 scene=MountainTownRegion
 
-item=GEAR_BigChoppingAxe p=1139.4554,268.4828,1782.6484 r=7.4589,344.5517,7.5214 c=21
-item=GEAR_BigChoppingAxe p=592.1212,220.2811,1564.8713 r=0.0000,303.1282,0.0000 c=21
+item=GEAR_BigChoppingAxe p=1139.4554,268.4828,1782.6484 r=7.4589,344.5517,7.5214 c=25
+item=GEAR_BigChoppingAxe p=592.1212,220.2811,1564.8713 r=0.0000,303.1282,0.0000 c=5
+item=GEAR_BigChoppingAxe p=1335.3566,263.7225,1396.5410 r=296.7805,310.9673,329.9999 c=5
+item=GEAR_BigChoppingAxe p=542.4993,223.2715,1531.6046 r=0.0000,263.8456,0.0000 c=5
 
 scene=MiltonHouseH1
 
-item=GEAR_BigChoppingAxe p=-4.7709,-0.1895,-3.5731 r=0.0000,345.6638,0.0000 c=6
+item=GEAR_BigChoppingAxe p=-4.7709,-0.1895,-3.5731 r=0.0000,345.6638,0.0000 c=5
 
 scene=MiltonHouseF1
 
-item=GEAR_BigChoppingAxe p=-4.1618,3.7257,-1.5061 r=329.7393,92.7266,75.7900 c=4
+item=GEAR_BigChoppingAxe p=-4.1618,3.7257,-1.5061 r=329.7393,92.7266,75.7900 c=5
 
 scene=GreyMothersHouseA
 
@@ -54,31 +57,31 @@ item=GEAR_BigChoppingAxe p=3.9611,5.4988,-0.2979 r=0.0000,193.1168,0.0000 c=10
 
 scene=TracksRegion
 
-item=GEAR_BigChoppingAxe p=544.6694,201.2354,510.5586 r=289.3920,312.8524,70.4556 c=11
+item=GEAR_BigChoppingAxe p=544.6694,201.2354,510.5586 r=289.3920,312.8524,70.4556 c=5
 
 scene=HuntingLodgeA
 
-item=GEAR_BigChoppingAxe p=6.8787,1.4463,-0.5080 r=0.0000,271.1528,0.0000 c=15
+item=GEAR_BigChoppingAxe p=6.8787,1.4463,-0.5080 r=0.0000,271.1528,0.0000 c=20
 
 scene=AshCanyonRegion
 
-item=GEAR_BigChoppingAxe p=340.6385,233.6797,556.7146 r=5.8882,184.7302,0.0000 c=90
+item=GEAR_BigChoppingAxe p=340.6385,233.6797,556.7146 r=5.8882,184.7302,0.0000 c=80
 
 scene=RuralRegion
 
-item=GEAR_BigChoppingAxe p=1493.8604,49.5889,1080.5109 r=-0.0000,26.2424,-0.0000 c=3
+item=GEAR_BigChoppingAxe p=1493.8604,49.5889,1080.5109 r=-0.0000,26.2424,-0.0000 c=5
 
 scene=RuralStoreA
 
-item=GEAR_BigChoppingAxe p=-1.0048,0.0105,-7.7589 r=0.0000,180.1341,0.0000 c=5
+item=GEAR_BigChoppingAxe p=-1.0048,0.0105,-7.7589 r=0.0000,180.1341,0.0000 c=10
 
 scene=BarnHouseB
 
-item=GEAR_BigChoppingAxe p=4.9123,4.3222,7.9649 r=-0.0000,88.2271,-0.0000 c=5
+item=GEAR_BigChoppingAxe p=4.9123,4.3222,7.9649 r=-0.0000,88.2271,-0.0000 c=2
 
 scene=BarnHouseA
 
-item=GEAR_BigChoppingAxe p=1.0311,6.3302,6.0146 r=0.0000,341.1087,0.0000 c=5
+item=GEAR_BigChoppingAxe p=1.0311,6.3302,6.0146 r=0.0000,341.1087,0.0000 c=4
 
 scene=FarmHouseABasement
 
@@ -86,40 +89,66 @@ item=GEAR_BigChoppingAxe p=-8.3788,1.9450,-3.5976 r=0.0000,258.4259,0.0000 c=20
 
 scene=CrashMountainRegion
 
-item=GEAR_BigChoppingAxe p=795.5788,149.8974,502.0099 r=-0.0000,169.4145,105.0001 c=10
+item=GEAR_BigChoppingAxe p=795.5788,149.8974,502.0099 r=-0.0000,169.4145,105.0001 c=15
 
 scene=PrepperCacheC
 
-item=GEAR_BigChoppingAxe p=3.9981,1.4521,-1.1110 r=270.0000,275.1349,0.0000 c=66
+item=GEAR_BigChoppingAxe p=3.9981,1.4521,-1.1110 r=270.0000,275.1349,0.0000 c=75
 
 scene=PrepperCacheA
 
-item=GEAR_BigChoppingAxe p=-3.1058,0.0101,-1.8420 r=60.0000,347.5717,-0.0001 c=12
+item=GEAR_BigChoppingAxe p=-3.1058,0.0101,-1.8420 r=60.0000,347.5717,-0.0001 c=5
 
 scene=WoodCabinA
 
-item=GEAR_BigChoppingAxe p=2.1112,0.3670,0.6978 r=0.0000,15.8571,75.0001 c=44
+item=GEAR_BigChoppingAxe p=2.1112,0.3670,0.6978 r=0.0000,15.8571,75.0001 c=30
 
 scene=MaintenanceShedB
 
-item=GEAR_BigChoppingAxe p=2.7589,1.6683,-27.1675 r=0.0000,88.0523,90.0001 c=8
+item=GEAR_BigChoppingAxe p=2.7589,1.6683,-27.1675 r=0.0000,88.0523,90.0001 c=10
 
 scene=TrailerB
 
-item=GEAR_BigChoppingAxe p=-1.0565,0.6587,-1.7599 r=0.0000,186.1218,0.0000 c=3
+item=GEAR_BigChoppingAxe p=-1.0565,0.6587,-1.7599 r=0.0000,186.1218,0.0000 c=1
+
+scene=CanyonRoadTransitionZone
+
+item=GEAR_BigChoppingAxe p=309.0952,39.2710,144.1772 r=0.0000,312.3779,0.0000 c=2
+item=GEAR_BigChoppingAxe p=316.7686,71.7710,389.8651 r=0.0000,269.8951,120.0002 c=2
+item=GEAR_BigChoppingAxe p=386.1828,73.9448,434.4176 r=-0.0000,224.5679,105.0000 c=8
 
 scene=BlackrockRegion
 
-item=GEAR_BigChoppingAxe p=-591.5261,106.9645,-486.7809 r=-0.0000,169.1053,-0.0000 c=15
+item=GEAR_BigChoppingAxe p=-591.5261,106.9645,-486.7809 r=-0.0000,169.1053,-0.0000 c=10
 
 scene=BlackrockInteriorASurvival
 
-item=GEAR_BigChoppingAxe p=53.6620,0.0419,6.0345 r=-0.0000,22.7051,-0.0000 c=100
+item=GEAR_BigChoppingAxe p=53.6620,0.0419,6.0345 r=-0.0000,22.7051,-0.0000 c=87
+
+scene=BlackrockTransitionZone
+
+item=GEAR_BigChoppingAxe p=758.9398,245.2109,-164.8902 r=0.0000,338.5103,0.0000 c=1
+item=GEAR_BigChoppingAxe p=441.2325,179.7311,18.9467 r=345.3507,185.1148,2.9003 c=100
+
+scene=HubRegion
+
+item=GEAR_BigChoppingAxe p=190.2118,263.5873,443.3152 r=299.9999,284.2538,0.0002 c=10
+
+scene=AirfieldRegion
+
+item=GEAR_BigChoppingAxe p=-233.9433,160.8360,-156.4415 r=0.0000,332.7775,0.0000 c=5
+item=GEAR_BigChoppingAxe p=329.4752,211.3736,1017.3346 r=-0.0000,9.6415,-0.0000 c=5
+item=GEAR_BigChoppingAxe p=-740.0359,293.1263,1144.6334 r=2.3453,88.5565,349.3797 c=5
+
+scene=AFHangar
+
+item=GEAR_BigChoppingAxe p=24.8641,0.4009,-7.4450 r=348.5736,321.6680,17.2058 c=5
+
+scene=MiningRegion
+
+item=GEAR_BigChoppingAxe p=-216.3437,202.0441,338.9692 r=359.9144,10.7073,359.9762 c=10
+item=GEAR_BigChoppingAxe p=491.2738,241.2947,186.0736 r=338.0329,298.0285,353.6326 c=15
 
 loottable=VehicleTrunkLocked
-
-item=GEAR_BigChoppingAxe w=1
-
-loottable=LockerLocked
 
 item=GEAR_BigChoppingAxe w=1

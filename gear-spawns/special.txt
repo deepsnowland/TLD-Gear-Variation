@@ -1,0 +1,6 @@
+scene=WoodCabinC
+item=GEAR_SmallBirdStatueColor p=-1.0522,0.8635,1.7710 r=-0.0000,165.7653,-0.0000 c=100
+item=GEAR_CarpenterAxe p=-1.1013,0.8745,1.6436 r=0.0000,210.3561,0.0000 c=100
+
+scene=WhalingWarehouseA
+item=GEAR_HacksawLight p=-9.7021,0.9789,-18.7354 r=0.0000,204.0370,0.0000 c=100

@@ -45,11 +45,11 @@
                             "MinutesPerGut" : 25,
                             "DegradePerHourHarvesting" : 20.5,
                             "StruggleBonus" : true,
-                            "DamageMultiplier" : 1.09,
-                            "FleeChanceMultiplier" : 1.15,
+                            "DamageMultiplier" : 0.75,
+                            "FleeChanceMultiplier" : 0.9,
                             "TapMultiplier" : 1.15,
                             "CanPuncture" : true,
-                            "BleedoutMultiplier" : 1.02
+                            "BleedoutMultiplier" : 0.4
     },
       "ModHarvestableBehaviour": {
                                 "Audio" : "Play_HarvestingWoodSmall",

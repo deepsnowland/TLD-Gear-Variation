@@ -45,11 +45,11 @@
                             "MinutesPerGut" : 45.0,
                             "DegradePerHourHarvesting" : 30.5,
                             "StruggleBonus" : true,
-                            "DamageMultiplier" : 1.02,
-                            "FleeChanceMultiplier" : 1.02,
+                            "DamageMultiplier" : 0.5,
+                            "FleeChanceMultiplier" : 1,
                             "TapMultiplier" : 1.05,
                             "CanPuncture" : true,
-                            "BleedoutMultiplier" : 1.0
+                            "BleedoutMultiplier" : 0.5
     },
       "ModHarvestableBehaviour": {
                                 "Audio" : "Play_HarvestingGeneric",

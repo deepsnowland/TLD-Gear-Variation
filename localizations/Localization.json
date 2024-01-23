@@ -47,6 +47,32 @@
   
    "English": "The sharpened end of the animal bone ensures practicality as a knife, but it won't last long."
 },
+ "GAMEPLAY_CarpenterAxe": {
+  
+   "English": "Carpenter's Axe"
+},
+ "GAMEPLAY_CarpenterAxeDescription": {
+  
+   "English": "An axe made specifically for carving into wood. Very sharp and larger than a regular hatchet. Whoever the owner was, they took good care of it."
+},
+ "GAMEPLAY_SmallBirdStatueColor": {
+  
+   "English": "Little Bird Sculpture"
+},
+ "GAMEPLAY_SmallBirdStatueColorDescription": {
+  
+   "English": "A small wooden statue resembling a colorful bird. Even though the paint is now fading, it's still beautiful in a way."
+},
+ "GAMEPLAY_HacksawLight": {
+  
+   "English": "Craftsman's Hacksaw"
+},
+ "GAMEPLAY_HacksawLightDescription": {
+  
+   "English": "A small light hacksaw used for cutting applications in need of a neater finish. It will take some time to slice through bigger things. The blade is easily swappable making repairs starightforward."
+},
+
+
 
 
 

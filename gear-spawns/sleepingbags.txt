@@ -1,27 +1,27 @@
 
 scene=RiverValleyRegion
 
-item=GEAR_TrekSleepingBag p=956.9023,193.0275,1250.8929 r=4.8217,296.1815,359.7227 c=24
-item=GEAR_TrekSleepingBag p=1123.2080,192.5830,784.6826 r=333.7772,83.4341,6.2305 c=24
-item=GEAR_TrekSleepingBag p=196.1120,174.6661,280.2027 r=29.9801,217.1247,180.0000 c=16
+item=GEAR_TrekSleepingBag p=956.9023,193.0275,1250.8929 r=4.8217,296.1815,359.7227 c=11
+item=GEAR_TrekSleepingBag p=1123.2080,192.5830,784.6826 r=333.7772,83.4341,6.2305 c=11
+item=GEAR_TrekSleepingBag p=196.1120,174.6661,280.2027 r=29.9801,217.1247,180.0000 c=11
 
 scene=MountainTownRegion
 
-item=GEAR_TrekSleepingBag p=449.6400,5.0221,689.8412 r=24.5261,239.6290,348.6088 c=88
+item=GEAR_TrekSleepingBag p=449.6400,5.0221,689.8412 r=24.5261,239.6290,348.6088 c=85
 
 scene=DamRiverTransitionZoneB
 
-item=GEAR_TrekSleepingBag p=454.1520,74.8378,496.2394 r=66.7037,74.5245,112.2219 c=25
+item=GEAR_TrekSleepingBag p=454.1520,74.8378,496.2394 r=66.7037,74.5245,112.2219 c=5
 
 scene=RuralRegion
 
-item=GEAR_TrekSleepingBag p=1395.8372,92.4890,2695.5925 r=350.5692,14.2885,355.2361 c=25
-item=GEAR_TrekSleepingBag p=397.9546,149.5493,2055.7729 r=60.0005,276.4183,0.0000 c=25
+item=GEAR_TrekSleepingBag p=1395.8372,92.4890,2695.5925 r=350.5692,14.2885,355.2361 c=3
+item=GEAR_TrekSleepingBag p=397.9546,149.5493,2055.7729 r=60.0005,276.4183,0.0000 c=5
 
 scene=CrashMountainRegion
 
-item=GEAR_TrekSleepingBag p=885.9168,162.0038,343.9568 r=0.0000,187.8137,0.0000 c=20
-item=GEAR_TrekSleepingBag p=944.2350,470.6295,1160.6602 r=357.6420,359.8684,6.3876 c=15
+item=GEAR_TrekSleepingBag p=885.9168,162.0038,343.9568 r=0.0000,187.8137,0.0000 c=6
+item=GEAR_TrekSleepingBag p=944.2350,470.6295,1160.6602 r=357.6420,359.8684,6.3876 c=5
 
 scene=AshMine
 
@@ -29,15 +29,15 @@ item=GEAR_TrekSleepingBag p=-125.7368,-56.4608,229.9040 r=0.5625,335.2599,359.42
 
 scene=AshCabinD
 
-item=GEAR_TrekSleepingBag p=-0.4840,0.6701,-1.7372 r=-0.0000,41.2059,-0.0000 c=25
+item=GEAR_TrekSleepingBag p=-0.4840,0.6701,-1.7372 r=-0.0000,41.2059,-0.0000 c=7
 
 scene=WhalingStationRegion
 
-item=GEAR_TrekSleepingBag p=1145.4802,15.2807,1290.4965 r=7.9813,321.6257,4.4674 c=45
+item=GEAR_TrekSleepingBag p=1145.4802,15.2807,1290.4965 r=7.9813,321.6257,4.4674 c=12
 
 scene=CampOffice
 
-item=GEAR_TrekSleepingBag p=-5.0919,3.7992,2.6141 r=0.0000,345.4600,0.0000 c=4
+item=GEAR_TrekSleepingBag p=-5.0919,3.7992,2.6141 r=0.0000,345.4600,0.0000 c=1
 
 scene=TracksRegion
 
@@ -45,17 +45,39 @@ item=GEAR_DeerSleepingBag p=254.9231,191.9295,575.3547 r=0.0000,346.9510,0.0000 
 
 scene=HuntingLodgeA
 
-item=GEAR_DeerSleepingBag p=-4.4301,6.4348,-6.6190 r=0.0000,358.2060,0.0000 c=4
+item=GEAR_DeerSleepingBag p=-4.4301,6.4348,-6.6190 r=0.0000,358.2060,0.0000 c=3
 
-item=GEAR_TrekSleepingBag p=-7.3747,8.0490,-2.2393 r=-0.0000,163.2272,-0.0000 c=25
+item=GEAR_TrekSleepingBag p=-7.3747,8.0490,-2.2393 r=-0.0000,163.2272,-0.0000 c=24
 
 scene=SafeHouseA
 
-item=GEAR_DeerSleepingBag p=-5.2186,0.2694,8.5405 r=-0.0000,245.0687,224.9999 c=4
+item=GEAR_DeerSleepingBag p=-5.2186,0.2694,8.5405 r=-0.0000,245.0687,224.9999 c=3
+
+scene=CanyonRoadTransitionZone
+
+item=GEAR_TrekSleepingBag p=220.8011,58.9647,133.5053 r=358.2100,315.9175,0.0000 c=22
+
+scene=TrailerE
+
+item=GEAR_TrekSleepingBag p=-0.4461,0.2600,-1.8280 r=59.7185,250.5345,357.4037 c=5
+
+scene=MiningRegion
+
+item=GEAR_TrekSleepingBag p=-374.1738,247.9496,98.6556 r=354.6588,238.2414,355.7106 c=44
+
+scene=AirfieldRegion
+
+item=GEAR_TrekSleepingBag p=123.2447,161.1219,-497.5042 r=0.0000,256.0751,0.0000 c=5
+item=GEAR_TrekSleepingBag p=130.7866,160.9135,-658.5708 r=0.0000,232.4690,0.0000 c=5
+
+scene=AFHangar
+
+item=GEAR_TrekSleepingBag p=-26.1188,4.1036,-11.0185 r=-0.0000,86.5009,-0.0000 c=20
+item=GEAR_TrekSleepingBag p=10.2144,-7.9979,4.2609 r=-0.0000,122.0260,-0.0000 c=5
 
 loottable=CargoMiscRareA
 
-item=GEAR_TrekSleepingBag w=2
+item=GEAR_TrekSleepingBag w=1
 
 loottable=CargoMiscRareB
 
@@ -63,13 +85,7 @@ item=GEAR_TrekSleepingBag w=1
 
 loottable=CargoMiscRareC
 
-item=GEAR_TrekSleepingBag w=2
-
-loottable=VehicleTrunkLocked
-
 item=GEAR_TrekSleepingBag w=1
 
-loottable=LockerLocked
 
-item=GEAR_TrekSleepingBag w=1
 
