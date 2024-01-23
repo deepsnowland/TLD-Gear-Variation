@@ -55,7 +55,7 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 # Note
 
 Some of the craftable items are intended for early game use, as sort of a tool progression.
-I might add more items in the future.
+More items to be added in the future. Feedback is appreciated!
 
 # Installation
 
