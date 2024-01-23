@@ -27,9 +27,15 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 
 (GEAR_HacksawLight)
 
-- One Small Collectible: Little- Bird Statue
+- One Small Collectible: Little Bird Statue
 
 (GEAR_SmallBirdStatueColor)
+
+<details>
+<Summary>(Spoiler) Locations for unique items </Summary>
+- Carpenter's Axe and Bird Statue are both found in the cabin with rim grill in Bleak Inlet.
+- Craftsman's Hacksaw is found at the workbench in Hibernia Processing.
+</details>
 
 # Note
 Some of the items are craftable, but all of the items have some sort of spawns, some are more common than others.
