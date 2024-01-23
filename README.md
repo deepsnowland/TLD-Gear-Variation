@@ -5,7 +5,7 @@ A mod adding more tool/gear variants for The Long Dark.
 
 # About
 
-Currently the mod adds 6 new tool/gear variants, those include:
+Currently the mod adds 8 new tool/gear variants (+ a little collectible), those include:
 
 - Two Axes: Splitting Axe and Carpenter's Axe 
 
