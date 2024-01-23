@@ -31,6 +31,16 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 
 (GEAR_SmallBirdStatueColor)
 
+# Item Locations
+
+- Some of the items are craftable, but all of the items have some sort of spawns, some are more common than others.
+
+- Carpenter's Axe, Bird Statue and Craftsman's Hacksaw have specific spawn points.
+
+- Other items, such as the splitting axe and mountaineer's sleeping bag can be found in many places around a vast selection of regions, so look out for them!
+
+- While the craftable items have some spawn spots, they are usually very very rare, this is intended.
+
 <details>
 
 <Summary>(Spoiler) Locations for unique items </Summary>
@@ -43,10 +53,8 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 </details>
 
 # Note
-Some of the items are craftable, but all of the items have some sort of spawns, some are more common than others.
-Carpenter's Axe, Bird Statue and Craftsman's Hacksaw only spawn in one specific spot.
-Some of the craftable items are intended for early game use, as sort of a tool progression.
 
+Some of the craftable items are intended for early game use, as sort of a tool progression.
 I might add more items in the future.
 
 # Installation
