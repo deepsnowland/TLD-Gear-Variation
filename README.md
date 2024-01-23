@@ -43,7 +43,7 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 
 <details>
 
-<Summary>(Spoiler) Locations for unique items </Summary>
+<Summary>(Spoiler) Locations of unique items </Summary>
 
 - Carpenter's Axe and Bird Statue are both found in the cabin with rim grill in Bleak Inlet.
 
