@@ -32,7 +32,7 @@ The mod adds 10 new tool/gear variants (+ a little collectible), those include:
 
 (GEAR_HacksawLight)
 
-- One Small Collectible: Little Bird Statue
+- A Small Collectible: Little Bird Statue
 
 (GEAR_SmallBirdStatueColor)
 
