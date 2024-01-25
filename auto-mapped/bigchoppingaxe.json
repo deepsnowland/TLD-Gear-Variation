@@ -47,7 +47,7 @@
                             "StruggleBonus" : true,
                             "DamageMultiplier" : 1.15,
                             "FleeChanceMultiplier" : 1.05,
-                            "TapMultiplier" : 0.65,
+                            "TapMultiplier" : 0.55,
                             "CanPuncture" : true,
                             "BleedoutMultiplier" : 0.75
     },

@@ -44,7 +44,7 @@
                             "MinutesPerHide" : 50,
                             "MinutesPerGut" : 35,
                             "DegradePerHourHarvesting" : 2.15,
-                            "StruggleBonus" : true,
+                            "StruggleBonus" : false,
                             "DamageMultiplier" : 0.8,
                             "FleeChanceMultiplier" : 0.9,
                             "TapMultiplier" : 1.0,

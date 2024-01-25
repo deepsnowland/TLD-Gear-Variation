@@ -4,3 +4,11 @@ item=GEAR_CarpenterAxe p=-1.1013,0.8745,1.6436 r=0.0000,210.3561,0.0000 c=100
 
 scene=WhalingWarehouseA
 item=GEAR_HacksawLight p=-9.7021,0.9789,-18.7354 r=0.0000,204.0370,0.0000 c=100
+
+scene=BlackrockRegion
+
+item=GEAR_BlacksmithHammer p=182.5959,180.6705,-244.1154 r=0.0000,288.8887,0.0000 c=100
+
+scene=RuralRegion
+
+item=GEAR_HunterKnife p=2269.2866,56.0165,2275.4429 r=0.1685,45.4816,357.9032 c=100

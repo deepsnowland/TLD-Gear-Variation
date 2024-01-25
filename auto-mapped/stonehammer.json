@@ -45,9 +45,9 @@
                             "MinutesPerGut" : 30,
                             "DegradePerHourHarvesting" : 0.0,
                             "StruggleBonus" : true,
-                            "DamageMultiplier" : 0.75,
-                            "FleeChanceMultiplier" : 0.6,
-                            "TapMultiplier" : 0.75,
+                            "DamageMultiplier" : 0.715,
+                            "FleeChanceMultiplier" : 0.85,
+                            "TapMultiplier" : 0.6,
                             "CanPuncture" : false,
                             "BleedoutMultiplier" : 1.0
     },

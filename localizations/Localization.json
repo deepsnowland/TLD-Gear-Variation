@@ -71,6 +71,22 @@
   
    "English": "A small light hacksaw used for cutting applications in need of a neater finish. It will take some time to slice through bigger things. The blade is easily swappable making repairs starightforward."
 },
+ "GAMEPLAY_HunterKnife": {
+  
+   "English": "Veteran's Knife"
+},
+ "GAMEPLAY_HunterKnifeDescription": {
+  
+   "English": "A heavy combat knife designed for killing, will cut right through any flesh. It features a custom-made engraved handle."
+},
+ "GAMEPLAY_BlacksmithHammer": {
+  
+   "English": "Blacksmith's Hammer"
+},
+ "GAMEPLAY_BlacksmithHammerDescription": {
+  
+   "English": "Heavy duty hammer designed for smithing. It might slow you down but it will do the job just right."
+},
 
 
 
