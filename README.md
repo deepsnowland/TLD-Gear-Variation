@@ -3,6 +3,11 @@
 # TLD-Gear-Variation
 A mod adding more tool/gear variants for The Long Dark.
 
+# Note
+
+- Currently there are no plans to add more items.
+- Feedback is appreciated, if there are any issues let me know.
+
 # About
 
 The mod adds 10 new tool/gear variants (+ a little collectible), those include:
@@ -58,10 +63,6 @@ The mod adds 10 new tool/gear variants (+ a little collectible), those include:
 
 </details>
 
-# Note
-
-- Some of the craftable items are intended for early game use, as sort of a tool progression.
-- Feedback is appreciated!
 
 # Installation
 
