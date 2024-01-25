@@ -5,23 +5,23 @@ A mod adding more tool/gear variants for The Long Dark.
 
 # About
 
-Currently the mod adds 8 new tool/gear variants (+ a little collectible), those include:
+The mod adds 10 new tool/gear variants (+ a little collectible), those include:
 
 - Two Axes: Splitting Axe and Carpenter's Axe 
 
 (GEAR_BigChoppingAxe, GEAR_CarpenterAxe)
 
-- 2 Knives: Flint Knife and Bone Knife 
+- 3 Knives: Flint Knife, Bone Knife and Veteran's Knife
 
-(GEAR_FlintKnife, GEAR_BoneKnife)
+(GEAR_FlintKnife, GEAR_BoneKnife, GEAR_HunterKnife)
 
 - 2 Sleeping Bags: Deerskin Sleeping Bag and Mountaineer's Sleeping Bag 
 
 (GEAR_DeerSleepingBag, GEAR_TrekSleepingBag)
 
-- A Hammer: Stone Hammer
+- 2 Hammers: Stone Hammer and Blacksmith's Hammer
 
-(GEAR_StoneHammer)
+(GEAR_StoneHammer, GEAR_BlacksmithHammer)
 
 - A Hacksaw: Craftsman's Hacksaw
 
@@ -35,7 +35,7 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 
 - Some of the items are craftable, but all of the items have some sort of spawns, some are more common than others.
 
-- Carpenter's Axe, Bird Statue and Craftsman's Hacksaw have specific spawn points.
+- Blacksmith's Hammer, Veteran's Knife, Carpenter's Axe, Bird Statue and Craftsman's Hacksaw have specific spawn points.
 
 - Other items, such as the splitting axe and mountaineer's sleeping bag can be found in many places around a vast selection of regions, so look out for them! (THEY ARE NOT GUARANTEED)
 
@@ -45,17 +45,23 @@ Currently the mod adds 8 new tool/gear variants (+ a little collectible), those 
 
 <Summary>(Spoiler) Locations of unique items </Summary>
 
-- Carpenter's Axe and Bird Statue are both found in the cabin with rim grill in Bleak Inlet.
+- Carpenter's Axe and Bird Statue are both found in the cabin with rim grill in Bleak Inlet. - perfect condition initially
 
 
-- Craftsman's Hacksaw is found at the workbench in Hibernia Processing.
+- Craftsman's Hacksaw is found at the workbench in Hibernia Processing. - random condition initally
+
+
+- Blacksmith's Hammer can be found at the Cook's Farm in Blackrock, laying on a tool drawer. - medium condition initially
+
+
+- Veteran's Knife can be found in Pleasant Valley, near Thomson's Crossing Church, on one of the graves. - medium condition initially 
 
 </details>
 
 # Note
 
-Some of the craftable items are intended for early game use, as sort of a tool progression.
-More items to be added in the future. Feedback is appreciated!
+- Some of the craftable items are intended for early game use, as sort of a tool progression.
+- Feedback is appreciated!
 
 # Installation
 
