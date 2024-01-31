@@ -4,7 +4,7 @@
                             "DescriptionLocalizatonId" : "GAMEPLAY_TrekSleepingBagDescription",
                             "InventoryActionLocalizationId" : "",
                             "WeightKG": 1.5,
-                            "DaysToDecay" : 164,
+                            "DaysToDecay" : 170,
                             "MaxHP" : 100,
                             "InitialCondition" : "Random",
                             "InventoryCategory" : "Tool",
