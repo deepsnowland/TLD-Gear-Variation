@@ -1,91 +1,113 @@
 {
  "GAMEPLAY_TrekSleepingBag": {
   
-    "English": "Mountaineer's Sleeping Bag"
+    "English": "Mountaineer's Sleeping Bag",
+    "French (France)": "Sac de Couchage du Montagnard"
 },
  "GAMEPLAY_TrekSleepingBagDescription": {
   
-   "English": "A high quality sleeping bag made to endure long journeys. Durable, warm, and protective. Comes with a string bag for easy carrying."
+   "English": "A high quality sleeping bag made to endure long journeys. Durable, warm, and protective. Comes with a string bag for easy carrying.",
+   "French (France)": "Un sac de couchage fabriqué pour les voyages longue durée. Résistant, chaud et offrant une bonne protection. Fournis avec un sac de transport facile."
 },
  "GAMEPLAY_DeerSleepingBag": {
   
-   "English": "Deerskin Sleeping Bag"
+   "English": "Deerskin Sleeping Bag",
+   "French (France)": "Sac de Couchage en peau de biche"
 },
  "GAMEPLAY_DeerSleepingBagDescription": {
   
-   "English": "Warm, durable, and heavy as a deer. The smell might attract some predators."
+   "English": "Warm, durable, and heavy as a deer. The smell might attract some predators.",
+   "French (France)": "Chaud, résistant, et aussi lourd qu'une biche. L'odeur pourrais attirer des prédateurs."
 },
  "GAMEPLAY_StoneHammer": {
   
-   "English": "Stone Hammer"
+   "English": "Stone Hammer",
+   "French (France)": "Marteau en Pierre"
 },
  "GAMEPLAY_StoneHammerDescription": {
   
-   "English": "A primitive version of a standard hammer. Less durable and not as effective, however a bit lighter."
+   "English": "A primitive version of a standard hammer. Less durable and not as effective, however a bit lighter.",
+   "French (France)": "Une forme primitive d'un marteau standard. Peu résistant et moins efficace, un peu plus léger malgré cela."
 },
  "GAMEPLAY_BigChoppingAxe": {
   
-   "English": "Splitting Axe"
+   "English": "Splitting Axe",
+   "French (France)": "Merlin"
 },
  "GAMEPLAY_BigChoppingAxeDescription": {
   
-   "English": "A big durable axe used for splitting logs. It's certainly not the lightest you can choose from."
+   "English": "A big durable axe used for splitting logs. It's certainly not the lightest you can choose from.",
+   "French (France)": "Un Merlin. Grosse hache résistante fabriquée pour couper du bois. Ce n'est pas la plus légère que vous puissiez choisir. "
 },
  "GAMEPLAY_FlintKnife": {
   
-   "English": "Flint Knife"
+   "English": "Flint Knife",
+   "French (France)": "Couteau en Silex"
 },
  "GAMEPLAY_FlintKnifeDescription": {
   
-   "English": "One of the oldest tools created by humanity. It's not that sharp or strong, but if they used it to survive, then maybe you can too."
+   "English": "One of the oldest tools created by humanity. It's not that sharp or strong, but if they used it to survive, then maybe you can too.",
+   "French (France)": "L'un des plus vieux outils créer par l'humanité. Pas vraiment tranchant ni costaud, mais s'ils ont pu l'utiliser pour survivre, peut être que vous le pouvez aussi."
 },
  "GAMEPLAY_BoneKnife": {
   
-   "English": "Bone knife"
+   "English": "Bone knife",
+   "French (France)": "Couteau en Os"
 },
  "GAMEPLAY_BoneKnifeDescription": {
   
-   "English": "The sharpened end of the animal bone ensures practicality as a knife, but it won't last long."
+   "English": "The sharpened end of the animal bone ensures practicality as a knife, but it won't last long.",
+   "French (France)": "la face aiguisée d'un os d'animal permet de l'utiliser comme un couteau, mais ça ne durera pas très longtemps."
 },
  "GAMEPLAY_CarpenterAxe": {
   
-   "English": "Carpenter's Axe"
+   "English": "Carpenter's Axe",
+   "French (France)": "Hache de Menuisier"
 },
  "GAMEPLAY_CarpenterAxeDescription": {
   
-   "English": "An axe made specifically for carving into wood. Very sharp and larger than a regular hatchet. Whoever the owner was, they took good care of it."
+   "English": "An axe made specifically for carving into wood. Very sharp and larger than a regular hatchet. Whoever the owner was, they took good care of it.",
+   "French (France)": "Une hache faite spécifiquement pour sculpter le bois. Très aguisée et plus large qu'une hachette. Qui qu'ai été le propriétaire de cet objet, ils en ont pris grand soin."
 },
  "GAMEPLAY_SmallBirdStatueColor": {
   
-   "English": "Little Bird Sculpture"
+   "English": "Little Bird Sculpture",
+   "French (France)": "Sculpture de Petit Oiseau"
 },
  "GAMEPLAY_SmallBirdStatueColorDescription": {
   
-   "English": "A small wooden statue resembling a colorful bird. Even though the paint is now fading, it's still beautiful in a way."
+   "English": "A small wooden statue resembling a colorful bird. Even though the paint is now fading, it's still beautiful in a way.",
+   "French (France)": "Une petite statue de bois ressemblant à un oiseau coloré. Bien que la peinture s'efface, elle est toujours belle d'une certaine manière."
 },
  "GAMEPLAY_HacksawLight": {
   
-   "English": "Craftsman's Hacksaw"
+   "English": "Craftsman's Hacksaw",
+   "French (France)": "Scie à Métaux d'artisan"
 },
  "GAMEPLAY_HacksawLightDescription": {
   
-   "English": "A small light hacksaw used for cutting applications in need of a neater finish. It will take some time to slice through bigger things. The blade is easily swappable making repairs starightforward."
+   "English": "A small light hacksaw used for cutting applications in need of a neater finish. It will take some time to slice through bigger things. The blade is easily swappable making repairs starightforward.",
+   "French (France)": "Une petite scie à métaux, utilisée pour des finitions plus propres. Cela prendra un moment pour couper des choses plus grosses. la lame est facile à remplacer, facilitant les réparations."
 },
  "GAMEPLAY_HunterKnife": {
   
-   "English": "Veteran's Knife"
+   "English": "Veteran's Knife",
+   "French (France)": "Couteau de Vétéran"
 },
  "GAMEPLAY_HunterKnifeDescription": {
   
-   "English": "A heavy combat knife designed for killing, will cut right through any flesh. It features a custom-made engraved handle."
+   "English": "A heavy combat knife designed for killing, will cut right through any flesh. It features a custom-made engraved handle.",
+   "French (France)": "Un couteau de combat lourd fabriqué pour tuer, coupera à travers toute chair. On peux observer une gravure personnalisée sur le manche."
 },
  "GAMEPLAY_BlacksmithHammer": {
   
-   "English": "Blacksmith's Hammer"
+   "English": "Blacksmith's Hammer",
+   "French (France)": "Marteau de Forgeron"
 },
  "GAMEPLAY_BlacksmithHammerDescription": {
   
-   "English": "Heavy duty hammer designed for smithing. It might slow you down but it will do the job just right."
+   "English": "Heavy duty hammer designed for smithing. It might slow you down but it will do the job just right.",
+   "French (France)": "Marteau lourd fabriqué pour forger. Peux vous ralentir mais fera le boulot sans problème."
 },
 
 
