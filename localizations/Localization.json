@@ -3,133 +3,133 @@
  "GAMEPLAY_TrekSleepingBag": {
   
     "English": "Mountaineer's Sleeping Bag",
-    "French (France)": "Sac de Couchage du Montagnard"
+    "French (France)": "Sac de Couchage du Montagnard",
     "Turkish": "Dağcının Uyku Tulumu"
 },
  "GAMEPLAY_TrekSleepingBagDescription": {
   
    "English": "A high quality sleeping bag made to endure long journeys. Durable, warm, and protective. Comes with a string bag for easy carrying.",
-   "French (France)": "Un sac de couchage fabriqué pour les voyages longue durée. Résistant, chaud et offrant une bonne protection. Fournis avec un sac de transport facile."
+   "French (France)": "Un sac de couchage fabriqué pour les voyages longue durée. Résistant, chaud et offrant une bonne protection. Fournis avec un sac de transport facile.",
    "Turkish": "Uzun yolculuklara dayanmak için üretilmiş yüksek kaliteli bir uyku tulumu. Dayanıklı, sıcak ve koruyucu. Kolay taşıma için ipli bir çanta ile birlikte gelir."
 },
  "GAMEPLAY_DeerSleepingBag": {
   
    "English": "Deerskin Sleeping Bag",
-   "French (France)": "Sac de Couchage en peau de biche"
+   "French (France)": "Sac de Couchage en peau de biche",
    "Turkish": "Geyik Derisi Uyku Tulumu"
 },
  "GAMEPLAY_DeerSleepingBagDescription": {
   
    "English": "Warm, durable, and heavy as a deer. The smell might attract some predators.",
-   "French (France)": "Chaud, résistant, et aussi lourd qu'une biche. L'odeur pourrais attirer des prédateurs."
+   "French (France)": "Chaud, résistant, et aussi lourd qu'une biche. L'odeur pourrais attirer des prédateurs.",
    "Turkish": "Sıcak, dayanıklı ve bir geyik kadar ağır. Kokusu bazı yırtıcıları çekebilir."
 },
  "GAMEPLAY_StoneHammer": {
   
    "English": "Stone Hammer",
-   "French (France)": "Marteau en Pierre"
+   "French (France)": "Marteau en Pierre",
    "Turkish": "Taş Çekiç"
 },
  "GAMEPLAY_StoneHammerDescription": {
   
    "English": "A primitive version of a standard hammer. Less durable and not as effective, however a bit lighter.",
-   "French (France)": "Une forme primitive d'un marteau standard. Peu résistant et moins efficace, un peu plus léger malgré cela."
+   "French (France)": "Une forme primitive d'un marteau standard. Peu résistant et moins efficace, un peu plus léger malgré cela.",
    "Turkish": "Standart bir çekicin ilkel bir versiyonu. Daha az dayanıklıdır ve o kadar etkili değildir, ancak biraz daha hafiftir."
 },
  "GAMEPLAY_BigChoppingAxe": {
   
    "English": "Splitting Axe",
-   "French (France)": "Merlin"
+   "French (France)": "Merlin",
    "Turkish": "Bölme Baltası"
 },
  "GAMEPLAY_BigChoppingAxeDescription": {
   
    "English": "A big durable axe used for splitting logs. It's certainly not the lightest you can choose from.",
-   "French (France)": "Un Merlin. Grosse hache résistante fabriquée pour couper du bois. Ce n'est pas la plus légère que vous puissiez choisir. "
+   "French (France)": "Un Merlin. Grosse hache résistante fabriquée pour couper du bois. Ce n'est pas la plus légère que vous puissiez choisir. ",
    "Turkish": "Kütükleri bölmek için kullanılan büyük ve dayanıklı bir balta. Aralarından seçebileceğiniz en hafif balta olmadığı kesin."
 },
  "GAMEPLAY_FlintKnife": {
   
    "English": "Flint Knife",
-   "French (France)": "Couteau en Silex"
+   "French (France)": "Couteau en Silex",
    "Turkish": "Çakmaktaşı Bıçak"
 },
  "GAMEPLAY_FlintKnifeDescription": {
   
    "English": "One of the oldest tools created by humanity. It's not that sharp or strong, but if they used it to survive, then maybe you can too.",
-   "French (France)": "L'un des plus vieux outils créer par l'humanité. Pas vraiment tranchant ni costaud, mais s'ils ont pu l'utiliser pour survivre, peut être que vous le pouvez aussi."
+   "French (France)": "L'un des plus vieux outils créer par l'humanité. Pas vraiment tranchant ni costaud, mais s'ils ont pu l'utiliser pour survivre, peut être que vous le pouvez aussi.",
    "Turkish": "İnsanlığın yarattığı en eski aletlerden biri. O kadar keskin ya da güçlü değil ama onlar hayatta kalmak için bunu kullandıysa, belki siz de kullanabilirsiniz."
 },
  "GAMEPLAY_BoneKnife": {
   
    "English": "Bone knife",
-   "French (France)": "Couteau en Os"
+   "French (France)": "Couteau en Os",
    "Turkish": "Kemik Bıçağı"
 },
  "GAMEPLAY_BoneKnifeDescription": {
   
    "English": "The sharpened end of the animal bone ensures practicality as a knife, but it won't last long.",
-   "French (France)": "la face aiguisée d'un os d'animal permet de l'utiliser comme un couteau, mais ça ne durera pas très longtemps."
+   "French (France)": "la face aiguisée d'un os d'animal permet de l'utiliser comme un couteau, mais ça ne durera pas très longtemps.",
    "Turkish": "Hayvan kemiğinin keskin ucu bir bıçak olarak pratiklik sağlar, ancak uzun süre dayanmaz."
 },
  "GAMEPLAY_CarpenterAxe": {
   
    "English": "Carpenter's Axe",
-   "French (France)": "Hache de Menuisier"
+   "French (France)": "Hache de Menuisier",
    "Turkish": "Marangozun Baltası"
 },
  "GAMEPLAY_CarpenterAxeDescription": {
   
    "English": "An axe made specifically for carving into wood. Very sharp and larger than a regular hatchet. Whoever the owner was, they took good care of it.",
-   "French (France)": "Une hache faite spécifiquement pour sculpter le bois. Très aguisée et plus large qu'une hachette. Qui qu'ai été le propriétaire de cet objet, ils en ont pris grand soin."
+   "French (France)": "Une hache faite spécifiquement pour sculpter le bois. Très aguisée et plus large qu'une hachette. Qui qu'ai été le propriétaire de cet objet, ils en ont pris grand soin.",
    "Turkish": "Özellikle ahşap oymak için yapılmış bir balta. Çok keskin ve normal bir baltadan daha büyük. Sahibi her kimse, ona iyi bakmış."
 },
  "GAMEPLAY_SmallBirdStatueColor": {
   
    "English": "Little Bird Sculpture",
-   "French (France)": "Sculpture de Petit Oiseau"
+   "French (France)": "Sculpture de Petit Oiseau",
    "Turkish": "Küçük Kuş Heykeli"
 },
  "GAMEPLAY_SmallBirdStatueColorDescription": {
   
    "English": "A small wooden statue resembling a colorful bird. Even though the paint is now fading, it's still beautiful in a way.",
-   "French (France)": "Une petite statue de bois ressemblant à un oiseau coloré. Bien que la peinture s'efface, elle est toujours belle d'une certaine manière."
+   "French (France)": "Une petite statue de bois ressemblant à un oiseau coloré. Bien que la peinture s'efface, elle est toujours belle d'une certaine manière.",
    "Turkish": "Renkli bir kuşu andıran küçük ahşap bir heykel. Boyası artık solmuş olsa da, bir şekilde hala güzel."
 },
  "GAMEPLAY_HacksawLight": {
   
    "English": "Craftsman's Hacksaw",
-   "French (France)": "Scie à Métaux d'artisan"
+   "French (France)": "Scie à Métaux d'artisan",
    "Turkish": "Zanaatkârın Demir Testeresi"
 },
  "GAMEPLAY_HacksawLightDescription": {
   
    "English": "A small light hacksaw used for cutting applications in need of a neater finish. It will take some time to slice through bigger things. The blade is easily swappable making repairs starightforward.",
-   "French (France)": "Une petite scie à métaux, utilisée pour des finitions plus propres. Cela prendra un moment pour couper des choses plus grosses. la lame est facile à remplacer, facilitant les réparations."
+   "French (France)": "Une petite scie à métaux, utilisée pour des finitions plus propres. Cela prendra un moment pour couper des choses plus grosses. la lame est facile à remplacer, facilitant les réparations.",
    "Turkish": "Daha düzgün bir yüzey gerektiren kesme uygulamaları için kullanılan küçük, hafif bir demir testeresi. Daha büyük şeyleri kesmek biraz zaman alacaktır. Bıçağı kolayca değiştirilebilir ve onarımları kolaylaştırır."
 },
  "GAMEPLAY_HunterKnife": {
   
    "English": "Veteran's Knife",
-   "French (France)": "Couteau de Vétéran"
+   "French (France)": "Couteau de Vétéran",
    "Turkish": "Eski Askerin Bıçağı"
 },
  "GAMEPLAY_HunterKnifeDescription": {
   
    "English": "A heavy combat knife designed for killing, will cut right through any flesh. It features a custom-made engraved handle.",
-   "French (France)": "Un couteau de combat lourd fabriqué pour tuer, coupera à travers toute chair. On peux observer une gravure personnalisée sur le manche."
+   "French (France)": "Un couteau de combat lourd fabriqué pour tuer, coupera à travers toute chair. On peux observer une gravure personnalisée sur le manche.",
    "Turkish": "Öldürmek için tasarlanmış ağır bir savaş bıçağı, her eti keser. Özel yapım oymalı bir sapa sahiptir."
 },
  "GAMEPLAY_BlacksmithHammer": {
   
    "English": "Blacksmith's Hammer",
-   "French (France)": "Marteau de Forgeron"
+   "French (France)": "Marteau de Forgeron",
    "Turkish": "Demircinin Çekici"
 },
  "GAMEPLAY_BlacksmithHammerDescription": {
   
    "English": "Heavy duty hammer designed for smithing. It might slow you down but it will do the job just right.",
-   "French (France)": "Marteau lourd fabriqué pour forger. Peux vous ralentir mais fera le boulot sans problème."
+   "French (France)": "Marteau lourd fabriqué pour forger. Peux vous ralentir mais fera le boulot sans problème.",
    "Turkish": "Demircilik için tasarlanmış ağır hizmet çekici. Sizi yavaşlatabilir ama işinizi tam olarak yapacaktır."
 }
 
