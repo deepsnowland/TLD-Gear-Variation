@@ -39,17 +39,17 @@
                             "IceFishingHoleMinutes" : 20,
                             "IceFishingHoleAudio" : "Play_IceBreakingChopping",
                             "CarcassHarvesting" : true,
-                            "MinutesPerKgMeat" : 25,
-                            "MinutesPerKgFrozenMeat" : 18,
-                            "MinutesPerHide" : 40,
-                            "MinutesPerGut" : 30,
-                            "DegradePerHourHarvesting" : 1,
+                            "MinutesPerKgMeat" : 27,
+                            "MinutesPerKgFrozenMeat" : 15,
+                            "MinutesPerHide" : 42,
+                            "MinutesPerGut" : 33,
+                            "DegradePerHourHarvesting" : 1.15,
                             "StruggleBonus" : true,
-                            "DamageMultiplier" : 0.96,
-                            "FleeChanceMultiplier" : 1.0,
-                            "TapMultiplier" : 1.0,
+                            "DamageMultiplier" : 0.95,
+                            "FleeChanceMultiplier" : 0.9,
+                            "TapMultiplier" : 0.8,
                             "CanPuncture" : true,
-                            "BleedoutMultiplier" : 0.7
+                            "BleedoutMultiplier" : 0.6
     },
       "ModHarvestableBehaviour": {
                                 "Audio" : "Play_HarvestingGeneric",
@@ -62,7 +62,7 @@
          "Audio" : "Play_Sharpening",
          "MinutesMin" : 5,
          "MinutesMax" : 30,
-         "ConditionMin" : 2.0,
+         "ConditionMin" : 2.15,
          "ConditionMax" : 9.5,
          "Tools" : ["GEAR_SharpeningStone"]  
       },
@@ -70,10 +70,10 @@
        "RepairDurationMinutes" : 30,
        "RepairRequiredGear" : ["GEAR_ScrapMetal","GEAR_ScrapLead"],
        "RepairRequiredGearUnits" : [1,1],
-       "CanRestoreFromWornOut" : false,
-       "RecoveryDurationMinutes" : 0,
-       "RestoreRequiredGear" : ["GEAR_ScrapMetal"],
-       "RestoreRequiredGearUnits" : [1],
+       "CanRestoreFromWornOut" : true,
+       "RecoveryDurationMinutes" : 200,
+        "RestoreRequiredGear": [ "GEAR_ScrapMetal", "GEAR_ScrapLead" ],
+       "RestoreRequiredGearUnits" : [2,3],
        "Skill" : "None"
      }
 

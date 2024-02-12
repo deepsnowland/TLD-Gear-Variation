@@ -5,7 +5,7 @@ item=GEAR_FlintKnife w=1
 
 loottable=HumanCorpseRare
 
-item=GEAR_BoneKnife w=4
+item=GEAR_BoneKnife w=1
 
 loottable=BackPack
 

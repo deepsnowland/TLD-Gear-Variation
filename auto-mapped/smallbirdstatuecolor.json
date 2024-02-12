@@ -15,7 +15,7 @@
                                 "InspectOnPickup" : true,
                                 "InspectDistance" : 0.4,
                                 "InspectAngles" : [0, 0, 0],
-                                "InspectOffset" : [0, -0.02, 0],
+                                "InspectOffset" : [0, -0.022, 0],
                                 "InspectScale" :  [0.89, 0.89, 0.89],
                                 "NormalModel" : "",
                                 "InspectModel" : ""
