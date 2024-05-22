@@ -9,7 +9,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_FlintKnife",
     "CraftedResultCount": 1,
-    "DurationMinutes": 50,
+    "DurationMinutes": 35,
     "CraftingAudio": "Play_Sharpening",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

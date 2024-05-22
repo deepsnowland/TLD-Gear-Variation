@@ -9,7 +9,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_BoneKnife",
     "CraftedResultCount": 1,
-    "DurationMinutes": 60,
+    "DurationMinutes": 75,
     "CraftingAudio": "Play_CraftingArrows",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

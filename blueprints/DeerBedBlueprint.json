@@ -10,7 +10,7 @@
     "RequiresLight": true,
     "CraftedResult": "GEAR_DeerSleepingBag",
     "CraftedResultCount": 1,
-    "DurationMinutes": 840,
+    "DurationMinutes": 815,
     "CraftingAudio": "Play_CraftingCloth",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"

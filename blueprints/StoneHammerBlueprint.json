@@ -9,7 +9,7 @@
     "RequiresLight": false,
     "CraftedResult": "GEAR_StoneHammer",
     "CraftedResultCount": 1,
-    "DurationMinutes": 45,
+    "DurationMinutes": 30,
     "CraftingAudio": "Play_CraftingGeneric",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
