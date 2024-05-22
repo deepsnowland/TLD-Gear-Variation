@@ -69,4 +69,10 @@ The mod adds 10 new tool/gear variants (+ a little collectible), those include:
 This mod requires Modders Gear Toolbox by Jods and ModComponent, and by that all of their dependencies.
 After installing those, download GearVariation.modcomponent from the releases page and drop it into your mods folder.
 
+#Extra
+
+German localization courtesy of rataj1250
+Turkish localization courtesy of Elderly-Emre
+French localization courtesy of whismerhill
+
 Have fun :)
