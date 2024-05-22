@@ -72,7 +72,9 @@ After installing those, download GearVariation.modcomponent from the releases pa
 # Additional Notes
 
 German localization courtesy of rataj1250
+
 Turkish localization courtesy of Elderly-Emre
+
 French localization courtesy of whismerhill
 
 Have fun :)
