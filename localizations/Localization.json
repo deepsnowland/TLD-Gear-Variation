@@ -6,7 +6,7 @@
 	"German" : "Schlafsack für Bergsteiger",
     "French (France)": "Sac de Couchage du Montagnard",
     "Turkish": "Dağcının Uyku Tulumu",
-    "Japanese" : "登山家の寝袋"
+    "Japanese": "登山家の寝袋"
 },
  "GAMEPLAY_TrekSleepingBagDescription": {
   
@@ -14,7 +14,7 @@
    "German" : "Ein hochwertiger Schlafsack, der für lange Reisen geeignet ist. Langlebig, warm und schützend. Wird mit einer Tragetasche zum einfachen Tragen geliefert.",
    "French (France)": "Un sac de couchage fabriqué pour les voyages longue durée. Résistant, chaud et offrant une bonne protection. Fournis avec un sac de transport facile.",
    "Turkish": "Uzun yolculuklara dayanmak için üretilmiş yüksek kaliteli bir uyku tulumu. Dayanıklı, sıcak ve koruyucu. Kolay taşıma için ipli bir çanta ile birlikte gelir.",
-   "Japanese" : "長旅にも耐えられる高品質の寝袋。耐久性、保温性、保護性に優れている。持ち運びに便利なストリングバッグ付き。"
+   "Japanese": "長旅にも耐えられる高品質の寝袋。耐久性、保温性、保護性に優れている。持ち運びに便利なストリングバッグ付き。"
 },
  "GAMEPLAY_DeerSleepingBag": {
   
@@ -22,7 +22,7 @@
    "German" : "Schlafsack aus Hirschleder",
    "French (France)": "Sac de Couchage en peau de biche",
    "Turkish": "Geyik Derisi Uyku Tulumu",
-   "Japanese" : "鹿皮の寝袋"
+   "Japanese": "鹿皮の寝袋"
 },
  "GAMEPLAY_DeerSleepingBagDescription": {
   
@@ -30,7 +30,7 @@
    "German" : "Warm, langlebig und schwer wie ein Reh. Der Geruch könnte einige Raubtiere anlocken.",
    "French (France)": "Chaud, résistant, et aussi lourd qu'une biche. L'odeur pourrais attirer des prédateurs.",
    "Turkish": "Sıcak, dayanıklı ve bir geyik kadar ağır. Kokusu bazı yırtıcıları çekebilir.",
-   "Japanese" : "暖かく、丈夫で、鹿のように重い。その匂いは捕食者を惹きつけるかもしれない。"
+   "Japanese": "暖かく、丈夫で、鹿のように重い。その匂いは捕食者を惹きつけるかもしれない。"
 },
  "GAMEPLAY_StoneHammer": {
   
@@ -38,7 +38,7 @@
    "German" : "Steinhammer",
    "French (France)": "Marteau en Pierre",
    "Turkish": "Taş Çekiç",
-   "Japanese" : "石のハンマー"
+   "Japanese": "石のハンマー"
 },
  "GAMEPLAY_StoneHammerDescription": {
   
@@ -46,7 +46,7 @@
    "German" : "Eine primitive Version eines Standardhammers. Weniger langlebig und nicht so effektiv, aber etwas leichter.",
    "French (France)": "Une forme primitive d'un marteau standard. Peu résistant et moins efficace, un peu plus léger malgré cela.",
    "Turkish": "Standart bir çekicin ilkel bir versiyonu. Daha az dayanıklıdır ve o kadar etkili değildir, ancak biraz daha hafiftir.",
-   "Japanese" : "標準的なハンマーの原始的なバージョン。耐久性に劣り、効率も良くないが、少し軽い。"
+   "Japanese": "標準的なハンマーの原始的なバージョン。耐久性に劣り、効率も良くないが、少し軽い。"
 },
  "GAMEPLAY_BigChoppingAxe": {
   
@@ -54,7 +54,7 @@
    "German" : "Spaltaxt",
    "French (France)": "Merlin",
    "Turkish": "Bölme Baltası",
-   "Japanese" : "薪割り斧"
+   "Japanese": "薪割り斧"
 },
  "GAMEPLAY_BigChoppingAxeDescription": {
   
@@ -62,7 +62,7 @@
    "German" : "Eine große, langlebige Axt zum Spalten von Holzstämmen. Es ist sicherlich nicht das Leichteste, aus dem Sie wählen können.",
    "French (France)": "Un Merlin. Grosse hache résistante fabriquée pour couper du bois. Ce n'est pas la plus légère que vous puissiez choisir. ",
    "Turkish": "Kütükleri bölmek için kullanılan büyük ve dayanıklı bir balta. Aralarından seçebileceğiniz en hafif balta olmadığı kesin.",
-   "Japanese" : "丸太を割るのに使う頑丈で大きな斧。あなたが選べるものの中で最も軽いものでないのは確かだ。"
+   "Japanese": "丸太を割るのに使う頑丈で大きな斧。あなたが選べるものの中で最も軽いものでないのは確かだ。"
 },
  "GAMEPLAY_FlintKnife": {
   
@@ -70,7 +70,7 @@
    "German" : "Feuersteinmesser",
    "French (France)": "Couteau en Silex",
    "Turkish": "Çakmaktaşı Bıçak",
-   "Japanese" : "黒曜石のナイフ"
+   "Japanese": "黒曜石のナイフ"
 },
  "GAMEPLAY_FlintKnifeDescription": {
   
@@ -78,7 +78,7 @@
    "German" : "Eines der ältesten von der Menschheit geschaffenen Werkzeuge. Es ist nicht so scharf oder stark, aber wenn sie es zum Überleben benutzt haben, dann können Sie es vielleicht auch.",
    "French (France)": "L'un des plus vieux outils créer par l'humanité. Pas vraiment tranchant ni costaud, mais s'ils ont pu l'utiliser pour survivre, peut être que vous le pouvez aussi.",
    "Turkish": "İnsanlığın yarattığı en eski aletlerden biri. O kadar keskin ya da güçlü değil ama onlar hayatta kalmak için bunu kullandıysa, belki siz de kullanabilirsiniz.",
-   "Japanese" : "人類が生み出した最も古い道具のひとつ。それほど鋭くも強力でもないが、彼らがこれを使って生き延びたのであれば、君も生き延びられるかもしれない。"
+   "Japanese": "人類が生み出した最も古い道具のひとつ。それほど鋭くも強力でもないが、彼らがこれを使って生き延びたのであれば、君も生き延びられるかもしれない。"
 },
  "GAMEPLAY_BoneKnife": {
   
@@ -86,7 +86,7 @@
    "German" : "Knochenmesser",
    "French (France)": "Couteau en Os",
    "Turkish": "Kemik Bıçağı",
-   "Japanese" : "骨のナイフ"
+   "Japanese": "骨のナイフ"
 },
  "GAMEPLAY_BoneKnifeDescription": {
   
@@ -94,7 +94,7 @@
    "German" : "Das geschärfte Ende des Tierknochens gewährleistet die Praktikabilität als Messer, hält aber nicht lange.",
    "French (France)": "la face aiguisée d'un os d'animal permet de l'utiliser comme un couteau, mais ça ne durera pas très longtemps.",
    "Turkish": "Hayvan kemiğinin keskin ucu bir bıçak olarak pratiklik sağlar, ancak uzun süre dayanmaz.",
-   "Japanese" : "先端が研ぎ澄まされている動物の骨、ナイフとしての実用性は確保されているが、長持ちはしない。"
+   "Japanese": "先端が研ぎ澄まされている動物の骨、ナイフとしての実用性は確保されているが、長持ちはしない。"
 },
  "GAMEPLAY_CarpenterAxe": {
   
@@ -102,7 +102,7 @@
    "German" : "Zimmermannsaxt",
    "French (France)": "Hache de Menuisier",
    "Turkish": "Marangozun Baltası",
-   "Japanese" : "大工の斧"
+   "Japanese": "大工の斧"
 },
  "GAMEPLAY_CarpenterAxeDescription": {
   
@@ -110,7 +110,7 @@
    "German" : "Eine Axt, die speziell zum Schnitzen in Holz hergestellt wurde. Sehr scharf und größer als ein normales Beil. Wer auch immer der Besitzer war, sie haben sich gut darum gekümmert.",
    "French (France)": "Une hache faite spécifiquement pour sculpter le bois. Très aguisée et plus large qu'une hachette. Qui qu'ai été le propriétaire de cet objet, ils en ont pris grand soin.",
    "Turkish": "Özellikle ahşap oymak için yapılmış bir balta. Çok keskin ve normal bir baltadan daha büyük. Sahibi her kimse, ona iyi bakmış.",
-   "Japanese" : "木を彫るために特別に作られた斧。非常に鋭く、普通の手斧よりも大きい。持ち主が誰であれ、大切に使っていたのだろう。"
+   "Japanese": "木を彫るために特別に作られた斧。非常に鋭く、普通の手斧よりも大きい。持ち主が誰であれ、大切に使っていたのだろう。"
 },
  "GAMEPLAY_SmallBirdStatueColor": {
   
@@ -118,7 +118,7 @@
    "German" : "Kleine Vogelskulptur",
    "French (France)": "Sculpture de Petit Oiseau",
    "Turkish": "Küçük Kuş Heykeli",
-   "Japanese" : "小鳥の彫刻"
+   "Japanese": "小鳥の彫刻"
 },
  "GAMEPLAY_SmallBirdStatueColorDescription": {
   
@@ -126,7 +126,7 @@
    "German" : "Eine kleine Holzstatue, die einem bunten Vogel ähnelt. Auch wenn die Farbe jetzt verblasst, ist sie in gewisser Weise immer noch schön.",
    "French (France)": "Une petite statue de bois ressemblant à un oiseau coloré. Bien que la peinture s'efface, elle est toujours belle d'une certaine manière.",
    "Turkish": "Renkli bir kuşu andıran küçük ahşap bir heykel. Boyası artık solmuş olsa da, bir şekilde hala güzel.",
-   "Japanese" : "色鮮やかな鳥に似せた小さな木の像。色あせてきているが、ある意味美しい。"
+   "Japanese": "色鮮やかな鳥に似せた小さな木の像。色あせてきているが、ある意味美しい。"
 },
  "GAMEPLAY_HacksawLight": {
   
@@ -134,7 +134,7 @@
    "German" : "Handwerker-Bügelsäge",
    "French (France)": "Scie à Métaux d'artisan",
    "Turkish": "Zanaatkârın Demir Testeresi",
-   "Japanese" : "職人の弓鋸"
+   "Japanese": "職人の弓鋸"
 },
  "GAMEPLAY_HacksawLightDescription": {
   
@@ -142,7 +142,7 @@
    "German" : "Eine kleine, leichte Bügelsäge für Schneidanwendungen, bei denen ein saubereres Finish erforderlich ist. Es wird einige Zeit dauern, größere Dinge durchzuschneiden. Die Klinge ist leicht austauschbar, sodass Reparaturen sofort durchgeführt werden können.",
    "French (France)": "Une petite scie à métaux, utilisée pour des finitions plus propres. Cela prendra un moment pour couper des choses plus grosses. la lame est facile à remplacer, facilitant les réparations.",
    "Turkish": "Daha düzgün bir yüzey gerektiren kesme uygulamaları için kullanılan küçük, hafif bir demir testeresi. Daha büyük şeyleri kesmek biraz zaman alacaktır. Bıçağı kolayca değiştirilebilir ve onarımları kolaylaştırır.",
-   "Japanese" : "よりきれいな仕上がりを必要とする場合に使われる小型軽量な弓鋸。大きなものを切るには時間がかかる。刃は簡単に交換できるので、修理も楽だ。"
+   "Japanese": "よりきれいな仕上がりを必要とする場合に使われる小型軽量な弓鋸。大きなものを切るには時間がかかる。刃は簡単に交換できるので、修理も楽だ。"
 },
  "GAMEPLAY_HunterKnife": {
   
@@ -150,7 +150,7 @@
    "German" : "Veteranenmesser",
    "French (France)": "Couteau de Vétéran",
    "Turkish": "Eski Askerin Bıçağı",
-   "Japanese" : "古兵のナイフ"
+   "Japanese": "古兵のナイフ"
 },
  "GAMEPLAY_HunterKnifeDescription": {
   
@@ -158,7 +158,7 @@
    "German" : "Ein schweres Kampfmesser zum Töten, das jedes Fleisch durchschneidet. Es verfügt über einen speziell angefertigten gravierten Griff.",
    "French (France)": "Un couteau de combat lourd fabriqué pour tuer, coupera à travers toute chair. On peux observer une gravure personnalisée sur le manche.",
    "Turkish": "Öldürmek için tasarlanmış ağır bir savaş bıçağı, her eti keser. Özel yapım oymalı bir sapa sahiptir.",
-   "Japanese" : "どんな肉をも切り裂く、殺傷用にデザインされた重厚な戦闘用ナイフ。刻印が入った特注の柄が特徴。"
+   "Japanese": "どんな肉をも切り裂く、殺傷用にデザインされた重厚な戦闘用ナイフ。刻印が入った特注の柄が特徴。"
 },
  "GAMEPLAY_BlacksmithHammer": {
   
@@ -166,7 +166,7 @@
    "German" : "Schmiedehammer",
    "French (France)": "Marteau de Forgeron",
    "Turkish": "Demircinin Çekici",
-   "Japanese" : "鍛冶屋のハンマー"
+   "Japanese": "鍛冶屋のハンマー"
 },
  "GAMEPLAY_BlacksmithHammerDescription": {
   
@@ -174,7 +174,7 @@
    "German" : "Robuster Hammer zum Schmieden. Es kann Sie zwar verlangsamen, aber es wird genau das Richtige tun.",
    "French (France)": "Marteau lourd fabriqué pour forger. Peux vous ralentir mais fera le boulot sans problème.",
    "Turkish": "Demircilik için tasarlanmış ağır hizmet çekici. Sizi yavaşlatabilir ama işinizi tam olarak yapacaktır.",
-   "Japanese" : "鍛冶仕事のためにデザインされた頑丈なハンマー。作業スピードは落ちるかもしれないが、仕事はきっちりこなしてくれる。"
+   "Japanese": "鍛冶仕事のためにデザインされた頑丈なハンマー。作業スピードは落ちるかもしれないが、仕事はきっちりこなしてくれる。"
 }
 
 }
