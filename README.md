@@ -66,8 +66,8 @@ The mod adds 10 new tool/gear variants (+ a little collectible), those include:
 
 # Installation
 
-This mod requires Modders Gear Toolbox by Jods and ModComponent, and by that all of their dependencies.
-After installing those, download GearVariation.modcomponent from the releases page and drop it into your mods folder.
+- Install [Modders Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/) and [ModComponent](https://github.com/dommrogers/ModComponent/releases/), as well as their respective dependencies.
+- Download GearVariation.modcomponent from the releases page and drop it into your mods folder.
 
 # Additional Notes
 
