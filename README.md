@@ -76,4 +76,9 @@ Turkish localization courtesy of Elderly-Emre
 
 French localization courtesy of whismerhill
 
+Italian localization courtesy of LettereUniche
+
+Russian localization courtesy of Pavlenzio
+
+
 Have fun :)
