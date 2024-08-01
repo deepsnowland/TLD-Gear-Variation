@@ -65,7 +65,7 @@ With craftable tools the mod aims to give the game a bit of tool progression, so
 
 # Installation
 
-- Install [Modders Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/) and [ModComponent](https://github.com/dommrogers/ModComponent/releases/), as well as their respective dependencies.
+- Install [Modders Gear Toolbox](https://github.com/Jods-Its/Modders-Gear-Toolbox/releases/) and [ModComponent](https://github.com/dommrogers/ModComponent/releases/), they are required.
 - Download GearVariation.modcomponent from the releases page and drop it into your mods folder.
 
 # Additional Thanks 
