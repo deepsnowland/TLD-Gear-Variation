@@ -47,7 +47,7 @@ With craftable tools the mod aims to give the game a bit of tool progression, so
 
 <details>
 
-<Summary>(Spoiler) Locations of unique items </Summary>
+<Summary>## Locations of unique items </Summary>
 
 - Carpenter's Axe and Bird Statue are both found in the cabin with rim grill in Bleak Inlet. - perfect condition initially
 
