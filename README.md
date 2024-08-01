@@ -10,6 +10,14 @@ Not all of the variants are made to be better than the regular counterparts, but
 
 With craftable tools the mod aims to give the game a bit of tool progression, so that you're not stuck without a knife or hammer on harder difficulties.
 
+Currently the mod adds a total of 10 tool variants, that includes:
+- 2 Axes,
+- 3 Knives,
+- 2 Sleeping Bags,
+- 2 Hammers,
+- A Hacksaw
+
+
 # Item IDs
 
 - Axes: Splitting Axe and Carpenter's Axe 
