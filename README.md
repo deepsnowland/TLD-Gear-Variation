@@ -45,9 +45,9 @@ With craftable tools the mod aims to give the game a bit of tool progression, so
 
 - Other items, such as the splitting axe and mountaineer's sleeping bag can be found in many places around a vast selection of regions, so look out for them!
 
-<details>
+## <details>
 
-## <Summary>Locations of unique items </Summary>
+ <Summary>Locations of unique items </Summary>
 
 - Carpenter's Axe and Bird Statue are both found in the cabin with rim grill in Bleak Inlet. - perfect condition initially
 
