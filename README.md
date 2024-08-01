@@ -1,39 +1,41 @@
 
 ![Title Screenshot](https://github.com/DemonBunnyBon/TLD-Gear-Variation/blob/main/screenshots/scr01.png)
 # Gear Variation
+
 A mod adding more tool/gear variants for The Long Dark.
 
-# Note
+All of the items have unique statistics and looks, you might find them more or less often around the world, some of them are unique and only spawn in one specific location.
 
-- Currently there are no plans to add more items.
+Not all of the variants are made to be better than the regular counterparts, but some of them might be easier to find.
 
-# About
+With craftable tools the mod aims to give the game a bit of tool progression, so that you're not stuck without a knife or hammer on harder difficulties.
 
-The mod adds 10 new tool/gear variants (+ a little collectible), those include:
+# Item IDs
 
-- Two Axes: Splitting Axe and Carpenter's Axe 
+- Axes: Splitting Axe and Carpenter's Axe 
 
 (GEAR_BigChoppingAxe, GEAR_CarpenterAxe)
 
-- 3 Knives: Flint Knife, Bone Knife and Veteran's Knife
+- Knives: Flint Knife, Bone Knife and Veteran's Knife
 
 (GEAR_FlintKnife, GEAR_BoneKnife, GEAR_HunterKnife)
 
-- 2 Sleeping Bags: Deerskin Sleeping Bag and Mountaineer's Sleeping Bag 
+- Sleeping Bags: Deerskin Sleeping Bag and Mountaineer's Sleeping Bag 
 
 (GEAR_DeerSleepingBag, GEAR_TrekSleepingBag)
 
-- 2 Hammers: Stone Hammer and Blacksmith's Hammer
+- Hammers: Stone Hammer and Blacksmith's Hammer
 
 (GEAR_StoneHammer, GEAR_BlacksmithHammer)
 
-- A Hacksaw: Craftsman's Hacksaw
+- Hacksaw: Craftsman's Hacksaw
 
 (GEAR_HacksawLight)
 
-- A Small Collectible: Little Bird Statue
+- Collectible: Little Bird Statue
 
 (GEAR_SmallBirdStatueColor)
+
 
 # Item Locations
 
@@ -41,9 +43,7 @@ The mod adds 10 new tool/gear variants (+ a little collectible), those include:
 
 - Blacksmith's Hammer, Veteran's Knife, Carpenter's Axe, Bird Statue and Craftsman's Hacksaw have specific spawn points.
 
-- Other items, such as the splitting axe and mountaineer's sleeping bag can be found in many places around a vast selection of regions, so look out for them! (THEY ARE NOT GUARANTEED)
-
-- While the craftable items have some spawn spots, they are usually very very rare, this is intended.
+- Other items, such as the splitting axe and mountaineer's sleeping bag can be found in many places around a vast selection of regions, so look out for them!
 
 <details>
 
