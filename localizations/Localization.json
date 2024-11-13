@@ -8,7 +8,8 @@
         "Turkish": "Dağcının Uyku Tulumu",
         "Italian": "Sacco a Pelo del Montanaro",
         "Russian": "Спальный мешок альпиниста",
-        "Spanish (Spain)": "Saco de dormir para montañeros"
+        "Spanish (Spain)": "Saco de dormir para montañeros",
+        "Japanese": "登山家の寝袋"
    },
     "GAMEPLAY_TrekSleepingBagDescription": {
      
@@ -18,7 +19,8 @@
         "Turkish": "Uzun yolculuklara dayanmak için üretilmiş yüksek kaliteli bir uyku tulumu. Dayanıklı, sıcak ve koruyucu. Kolay taşıma için ipli bir çanta ile birlikte gelir.",
         "Italian": "Un sacco a pelo di alta qualità fatta per resistere ai lunghi viaggi. Durevole, caldo e protettivo. Fornito con una borsa per facilitare il trasporto.",
         "Russian": "Высококачественный спальный мешок, созданный для длительных путешествий. Прочный, теплый и дающий хорошую защиту. В комплекте идет авоська для удобной переноски.",
-        "Spanish (Spain)": "Un saco de dormir de alta calidad hecha para durar largos viajes. Duradero, cálido y protector. Viene con una bolsa de cuerda para facilitar su transporte."
+        "Spanish (Spain)": "Un saco de dormir de alta calidad hecha para durar largos viajes. Duradero, cálido y protector. Viene con una bolsa de cuerda para facilitar su transporte.",
+        "Japanese": "長旅にも耐えられる高品質の寝袋。耐久性、保温性、保護性に優れている。持ち運びに便利なストリングバッグ付き。"
    },
     "GAMEPLAY_DeerSleepingBag": {
      
@@ -28,7 +30,8 @@
         "Turkish": "Geyik Derisi Uyku Tulumu",
         "Italian": "Sacco a Pelo in Pelle di Cervo",
         "Russian": "Спальный мешок из оленьей шкуры",
-        "Spanish (Spain)": "Saco de dormir de piel de ciervo"
+        "Spanish (Spain)": "Saco de dormir de piel de ciervo",
+        "Japanese": "鹿皮の寝袋"
    },
     "GAMEPLAY_DeerSleepingBagDescription": {
      
@@ -38,7 +41,8 @@
         "Turkish": "Sıcak, dayanıklı ve bir geyik kadar ağır. Kokusu bazı yırtıcıları çekebilir.",
         "Italian": "Caldo, durevole e pesando come un cervo. L'odore potrebbe attirare qualche predatore.",
         "Russian": "Теплый, прочный и тяжелый, - прямо как олень. Запах может привлечь хищников.",
-        "Spanish (Spain)": "Cálido, duradero y pesado como un ciervo. El olor puede atraer a algunos depredadores"
+        "Spanish (Spain)": "Cálido, duradero y pesado como un ciervo. El olor puede atraer a algunos depredadores",
+        "Japanese": "鹿のように暖かく、丈夫で、重い。その匂いは捕食者を惹きつけるかもしれない。"
    },
     "GAMEPLAY_StoneHammer": {
      
@@ -48,7 +52,8 @@
         "Turkish": "Taş Çekiç",
         "Italian": "Martello di Pietra",
         "Russian": "Каменный молот",
-        "Spanish (Spain)": "Martillo de piedra"
+        "Spanish (Spain)": "Martillo de piedra",
+        "Japanese": "石のハンマー"
    },
     "GAMEPLAY_StoneHammerDescription": {
      
@@ -58,7 +63,8 @@
         "Turkish": "Standart bir çekicin ilkel bir versiyonu. Daha az dayanıklıdır ve o kadar etkili değildir, ancak biraz daha hafiftir.",
         "Italian": "Una versione primitiva di un martello ordinario. Meno durevole e non così efficace, tuttavia un po' più leggero.",
         "Russian": "Примитивная версия стандартного молотка. Менее прочный и не такой эффективный, однако меньше весит.",
-        "Spanish (Spain)": "Una versión primita del martillo estándar. Menos duradero y no tan eficaz, pero un poco más ligero"
+        "Spanish (Spain)": "Una versión primita del martillo estándar. Menos duradero y no tan eficaz, pero un poco más ligero",
+        "Japanese": "標準的なハンマーの原始版。耐久性に劣り、効率も良くないが、少し軽い。"
    },
     "GAMEPLAY_BigChoppingAxe": {
      
@@ -68,7 +74,8 @@
         "Turkish": "Bölme Baltası",
         "Italian": "Ascia da Spacco",
         "Russian": "Топор лесоруба",
-        "Spanish (Spain)": "Hacha de cortar"
+        "Spanish (Spain)": "Hacha de cortar",
+        "Japanese": "薪割り斧"
    },
     "GAMEPLAY_BigChoppingAxeDescription": {
      
@@ -78,7 +85,8 @@
         "Turkish": "Kütükleri bölmek için kullanılan büyük ve dayanıklı bir balta. Aralarından seçebileceğiniz en hafif balta olmadığı kesin.",
         "Italian": "Una grande ascia resistente per tagliare i tronchi. Di sicuro non è la più leggera che si possa scegliere.",
         "Russian": "Большой прочный топор, используемый для колки бревен. Это точно не самый легкий вариант, который вы можете выбрать.",
-        "Spanish (Spain)": "Un hacha grande y resistente para cortar troncos. Desde luego no es la más ligero entre las que puedes elegir."
+        "Spanish (Spain)": "Un hacha grande y resistente para cortar troncos. Desde luego no es la más ligero entre las que puedes elegir.",
+        "Japanese": "丸太を割るのに使う頑丈で大きな斧。あなたが選べるものの中で最も軽いものでないのは確かだ。"
    },
     "GAMEPLAY_FlintKnife": {
      
@@ -88,7 +96,8 @@
         "Turkish": "Çakmaktaşı Bıçak",
         "Italian": "Coltello di Pietra Focaia",
         "Russian": "Кремневый нож",
-        "Spanish (Spain)": "Cuchillo de pedernal"
+        "Spanish (Spain)": "Cuchillo de pedernal",
+        "Japanese": "黒曜石のナイフ"
    },
     "GAMEPLAY_FlintKnifeDescription": {
      
@@ -98,7 +107,8 @@
         "Turkish": "İnsanlığın yarattığı en eski aletlerden biri. O kadar keskin ya da güçlü değil ama onlar hayatta kalmak için bunu kullandıysa, belki siz de kullanabilirsiniz.",
         "Italian": "Uno degli attrezzi più vecchi creati dall'umanità. Non è così affilato o forte, ma se loro lo usavano per sopravvivvere, allora forse anche tu puoi farlo.",
         "Russian": "Один из древнейших инструментов, созданных человечеством. Не такой уж острый и прочный, но если они использовали его, чтобы выжить, то, возможно, и вы тоже сможете.",
-        "Spanish (Spain)": "Una de herramientas más antiguas creadas por la humanidad. No es la más afilada o la más fuerte, pero si ellos la pudieron usaron para sobrevivir, entonces tu también."
+        "Spanish (Spain)": "Una de herramientas más antiguas creadas por la humanidad. No es la más afilada o la más fuerte, pero si ellos la pudieron usaron para sobrevivir, entonces tu también.",
+        "Japanese": "人類が生み出した最古の道具のひとつ。さして鋭くも丈夫でもないが、彼らがこれを使って生き延びたのであれば、君も生き延びられるかもしれない。"
    },
     "GAMEPLAY_BoneKnife": {
      
@@ -108,7 +118,8 @@
         "Turkish": "Kemik Bıçağı",
         "Italian": "Coltello di Ossa",
         "Russian": "Костяной нож",
-        "Spanish (Spain)": "Cuchillo de hueso"
+        "Spanish (Spain)": "Cuchillo de hueso",
+        "Japanese": "骨のナイフ"
    },
     "GAMEPLAY_BoneKnifeDescription": {
      
@@ -118,7 +129,8 @@
         "Turkish": "Hayvan kemiğinin keskin ucu bir bıçak olarak pratiklik sağlar, ancak uzun süre dayanmaz.",
         "Italian": "L'estremità affilata di un osso di un animale assiccura praticità di un coltello, ma non durerà a lungo.",
         "Russian": "Заостренный конец кости животного: может послужить как нож, но надолго его не хватит.",
-        "Spanish (Spain)": "El extremo afilado del hueso animal garantiza su utilidad como cuchillo, pero no durará mucho."
+        "Spanish (Spain)": "El extremo afilado del hueso animal garantiza su utilidad como cuchillo, pero no durará mucho.",
+        "Japanese": "先端が研ぎ澄まされた動物の骨、ナイフとしての実用性は確保されているが、長持ちはしない。"
    },
     "GAMEPLAY_CarpenterAxe": {
      
@@ -128,7 +140,8 @@
         "Turkish": "Marangozun Baltası",
         "Italian": "Ascia da Carpentiere",
         "Russian": "Топор плотника",
-        "Spanish (Spain)": "Hacha de carpintero"
+        "Spanish (Spain)": "Hacha de carpintero",
+        "Japanese": "大工の斧"
    },
     "GAMEPLAY_CarpenterAxeDescription": {
      
@@ -138,7 +151,8 @@
         "Turkish": "Özellikle ahşap oymak için yapılmış bir balta. Çok keskin ve normal bir baltadan daha büyük. Sahibi her kimse, ona iyi bakmış.",
         "Italian": "Una ascia fatta specificamente per intagliare il legno. Molto affilata e più grossa di un'accetta regolare. Chiunque era il proprietario, ha preso una buona cura di essa.",
         "Russian": "Топор, сделанный специально для резьбы по дереву. Очень острый и больше обычного топора. Кем бы ни был его владелец, он хорошо позаботился об инструменте.",
-        "Spanish (Spain)": "Un hacha hecha específicamente para talar madera. Muy afilada y más larga que la hacha promedio. Quien quiera que haya sido el dueño, la cuidó bastante bien."
+        "Spanish (Spain)": "Un hacha hecha específicamente para talar madera. Muy afilada y más larga que la hacha promedio. Quien quiera que haya sido el dueño, la cuidó bastante bien.",
+        "Japanese": "木を彫るために特別に作られた斧。非常に鋭く、普通の手斧よりも大きい。持ち主が誰であれ、大切に使っていたのだろう。"
    },
     "GAMEPLAY_SmallBirdStatueColor": {
      
@@ -148,7 +162,8 @@
         "Turkish": "Küçük Kuş Heykeli",
         "Italian": "Scultura di un Piccolo Uccello",
         "Russian": "Маленькая фигурка птицы",
-        "Spanish (Spain)": "Escultura de un pajarito"
+        "Spanish (Spain)": "Escultura de un pajarito",
+        "Japanese": "小鳥の彫刻"
    },
     "GAMEPLAY_SmallBirdStatueColorDescription": {
      
@@ -158,7 +173,8 @@
         "Turkish": "Renkli bir kuşu andıran küçük ahşap bir heykel. Boyası artık solmuş olsa da, bir şekilde hala güzel.",
         "Italian": "Una piccola statuetta in legno che assomiglia a un uccello colorato. Anche se la vernice sta svanendo, è ancora bello in un certo senso.",
         "Russian": "Небольшая деревянная статуэтка, напоминающая разноцветную птицу. Даже несмотря на то, что краска уже выцвела, она по-прежнему красива.",
-        "Spanish (Spain)": "Una pequeña estatua de madera que parece un pájaro de colores. Aunque la pintura se está decolorando, sigue siendo bonita en cierto modo."
+        "Spanish (Spain)": "Una pequeña estatua de madera que parece un pájaro de colores. Aunque la pintura se está decolorando, sigue siendo bonita en cierto modo.",
+        "Japanese": "色鮮やかな鳥に似せた小さな木の像。色あせてきているが、ある意味美しい。"
    },
     "GAMEPLAY_HacksawLight": {
      
@@ -168,7 +184,8 @@
         "Turkish": "Zanaatkârın Demir Testeresi",
         "Italian": "Segacchio da Artigiano",
         "Russian": "Ножовка мастера",
-        "Spanish (Spain)": "Sierra de mano"
+        "Spanish (Spain)": "Sierra de mano",
+        "Japanese" : "職人の弓鋸"
    },
     "GAMEPLAY_HacksawLightDescription": {
      
@@ -178,7 +195,8 @@
         "Turkish": "Daha düzgün bir yüzey gerektiren kesme uygulamaları için kullanılan küçük, hafif bir demir testeresi. Daha büyük şeyleri kesmek biraz zaman alacaktır. Bıçağı kolayca değiştirilebilir ve onarımları kolaylaştırır.",
         "Italian": "Un piccolo e leggero segaccio usato per le applicazioni di taglio che richiedono una finitura più accurata. Ci metterà un po' di tempo per tagliare cose più grandi. La lama è facilmente sostituibile rendendo le riparazioni facili e veloci.",
         "Russian": "Небольшая легкая ножовка, используемая для резки изделий, к которым нужен более аккуратный подход. Чтобы рарезать вещи покрупнее, потребуется некоторое время. Лезвие легко заменяется, что упрощает ремонт.",
-        "Spanish (Spain)": "Una pequeña sierra de arco ligera utilizada para cortar aplicaciones que necesitan un acabado más limpio. Tardará algún tiempo en cortar cosas más grandes. La hoja es fácilmente intercambiable, lo que facilita las reparaciones."
+        "Spanish (Spain)": "Una pequeña sierra de arco ligera utilizada para cortar aplicaciones que necesitan un acabado más limpio. Tardará algún tiempo en cortar cosas más grandes. La hoja es fácilmente intercambiable, lo que facilita las reparaciones.",
+        "Japanese": "よりきれいな仕上がりを必要とする場合に使われる小型軽量な弓鋸。大きなものを切るには時間がかかる。刃は簡単に交換できるので、修理も楽だ。"
    },
     "GAMEPLAY_HunterKnife": {
      
@@ -188,7 +206,8 @@
         "Turkish": "Eski Askerin Bıçağı",
         "Italian": "Coltello del Veterano",
         "Russian": "Нож ветерана",
-        "Spanish (Spain)": "Cuchillo de veterano"
+        "Spanish (Spain)": "Cuchillo de veterano",
+        "Japanese": "古兵のナイフ"
    },
     "GAMEPLAY_HunterKnifeDescription": {
         
@@ -198,7 +217,8 @@
         "Turkish": "Öldürmek için tasarlanmış ağır bir savaş bıçağı, her eti keser. Özel yapım oymalı bir sapa sahiptir.",
         "Italian": "Un coltello da combattimento pesante fatto per uccidere, taglierà facilmente qualsiasi carne. Il manico presenta un'incisione personalizzata.",
         "Russian": "Тяжелый боевой нож, предназначенный для убийства, прорежет любую плоть. Имеет ручку с индивидуальной гравировкой.",
-        "Spanish (Spain)": "Un cuchillo de combate pesado diseñado para matar, cortará cualquier tipo de carne. Presenta una empuñadura grabada a medida."
+        "Spanish (Spain)": "Un cuchillo de combate pesado diseñado para matar, cortará cualquier tipo de carne. Presenta una empuñadura grabada a medida.",
+        "Japanese": "どんな肉をも切り裂く、殺傷用にデザインされた重厚な戦闘用ナイフ。刻印が入った特注の柄が特徴。"
    },
     "GAMEPLAY_BlacksmithHammer": {
      
@@ -208,7 +228,8 @@
         "Turkish": "Demircinin Çekici",
         "Italian": "Martello del Fabbro",
         "Russian": "Молот кузнеца",
-        "Spanish (Spain)": "Martillo de herrero"
+        "Spanish (Spain)": "Martillo de herrero",
+        "Japanese": "鍛冶屋のハンマー"
    },
     "GAMEPLAY_BlacksmithHammerDescription": {
      
@@ -218,7 +239,8 @@
         "Turkish": "Demircilik için tasarlanmış ağır hizmet çekici. Sizi yavaşlatabilir ama işinizi tam olarak yapacaktır.",
         "Italian": "Martello per impieghi gravosi fatto per la forgiatura. Potrebbe rallentarti ma farà bene il suo lavoro.",
         "Russian": "Мощный молот, предназначенный для кузнечного дела. Может немного замедлить вас, но со своей задачей справится.",
-        "Spanish (Spain)": "Martillo para trabajos pesados diseñado para herrería. Puede ralentizarle, pero hará el trabajo a la perfección."
+        "Spanish (Spain)": "Martillo para trabajos pesados diseñado para herrería. Puede ralentizarle, pero hará el trabajo a la perfección.",
+        "Japanese": "鍛冶仕事のためにデザインされた頑丈なハンマー。作業スピードは落ちるかもしれないが、仕事はきっちりこなしてくれる。"
    }
    
    }
